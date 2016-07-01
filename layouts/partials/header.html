@@ -1,0 +1,15 @@
+<header>
+	<nav id="language-menu">
+		<a href="/home">English</a>
+		<a href="/startseite">Deutsch</a>
+	</nav>
+
+	<nav id="main-menu">
+		{{ range (index .Site.Taxonomies.menu .Params.lang).Pages }}
+		<a href="{{ .Permalink  }}">{{ .LinkTitle }}</a>
+		{{ end }}
+		<div class="clear"></div>
+	</nav>
+</header>
+
+<h2 id="subtitle">{{ .Title }}</h2>
