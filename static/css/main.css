@@ -2,61 +2,15 @@
 body {
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333;
-  margin: 0;
+  margin: 0em;
   padding: 0;
 }
 
-/* Bigger than 550 */
-@media (min-width: 550px) {
-  .section .banner {
-    padding: 9rem 0 8rem;
-  }
-  .logo {
-    position: absolute;
-    top: 5rem;
-    max-height: 200px;
-  }
-	h1 {
-		font-size: 3.5rem;
-	}
-	h2 {
-		font-size: 2.5rem;
-	}
+
+#language-menu, #main-menu {
+  display: none;
 }
 
-@media (min-width: 750px) {
-  .section .banner {
-    padding: 13rem 0 12rem;
-  }
-	
-  .logo {
-    max-height: 300px;
-  }
-	
-	h1 {
-		font-size: 4rem;
-	}
-	h2 {
-		font-size: 3rem;
-	}
-}
-
-@media (min-width: 1000px) { 
-  .section .banner {
-    padding: 16rem 0 15rem;
-  }
-	
-  .logo {
-    max-height: 350px;
-  }
-	
-	h1 {
-		font-size: 5.5rem;
-	}
-	h2 {
-		font-size: 4.5rem;
-	}
-}
 
 h1, h2 {
   font-weight: 400;
@@ -77,6 +31,8 @@ header {
 #language-menu, #main-menu, #title, #subtitle {
   font-variant: small-caps;
 }
+
+
 
 /* Language Menu */
 
@@ -103,11 +59,11 @@ header {
   float: left;
   text-align: center;
   
-  padding: 0.5em 2em 0.5em 0em;
+  padding: 0.5em 1em 0.5em 0em;
   margin: 0;
   
   text-decoration: none;
-  font-size: 18px;
+  font-size: 120%;
   color: rgb(157,157,157);
 }
 
@@ -120,4 +76,80 @@ header {
 #footer {
     margin: 50px 0;
     text-align: center;
+}
+
+@media (min-width: 400px) {
+  #language-menu, #main-menu {
+    display: block;
+  }
+  
+  #main-menu a {
+    padding: 1.2em 1em 1.2em 0em;
+    font-size: 0.8em;
+  }
+}
+
+
+/* Bigger than 550 */
+@media (min-width: 550px) {
+  .section .banner {
+    padding: 9rem 0 8rem;
+  }
+    
+  .logo {
+    position: absolute;
+    top: 5rem;
+    max-height: 200px;
+  }
+	h1 {
+		font-size: 3.5rem;
+	}
+	h2 {
+		font-size: 2.5rem;
+	}
+
+  
+}
+
+@media (min-width: 750px) {
+  .section .banner {
+    padding: 13rem 0 12rem;
+  }
+  	
+  .logo {
+    max-height: 300px;
+  }
+	
+	h1 {
+		font-size: 4rem;
+	}
+	h2 {
+		font-size: 3rem;
+	}
+  #main-menu a {
+    padding: 0.7em 0.9em 0.7em 0em;
+    font-size: 1.0em;
+  }
+  
+}
+
+@media (min-width: 1000px) { 
+  .section .banner {
+    padding: 16rem 0 15rem;
+  }
+	
+  .logo {
+    max-height: 350px;
+  }
+	
+	h1 {
+		font-size: 5.5rem;
+	}
+	h2 {
+		font-size: 4.5rem;
+	}
+  #main-menu a {
+    font-size: 1.2em;
+  }
+  
 }
