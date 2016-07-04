@@ -1,7 +1,7 @@
 +++
 title = "Home"
 linktitle = "home"
-url = "/de/home"
+url = "/de"
 
 listing = true
 lang = "de"
