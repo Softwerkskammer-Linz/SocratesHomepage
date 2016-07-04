@@ -1,6 +1,7 @@
 +++
 weight = 20
 title = "Tickets"
+anchor = "tickets"
 
 lang = "en"
 groups = ["home"]

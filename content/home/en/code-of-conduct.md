@@ -1,7 +1,7 @@
 +++
 weight = 50
 title = "Code of Conduct"
-
+anchor = "code-of-conduct"
 lang = "en"
 groups = ["home"]
 +++

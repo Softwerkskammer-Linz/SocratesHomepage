@@ -1,6 +1,7 @@
 +++
 weight = 30
 title = "Open Space"
+anchor = "open-space"
 
 lang = "en"
 groups = ["home"]

@@ -86,10 +86,9 @@ header {
 }
 #language-menu a {
   float: left;
-  padding: 0.9em 0.5em 0.9em 0em;
   text-decoration: none;
   color: rgb(157,157,157);
-	font-size: 90%;
+	font-size: 200%;
 }
 #language-menu a:hover { 
   color: white; 

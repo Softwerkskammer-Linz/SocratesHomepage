@@ -1,6 +1,7 @@
 +++
 weight = 60
 title = "Partners"
+anchor = "partners"
 
 lang = "en"
 groups = ["home"]
