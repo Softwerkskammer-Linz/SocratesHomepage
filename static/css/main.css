@@ -67,6 +67,10 @@ header {
   color: rgb(157,157,157);
 }
 
+#main-menu .active {
+  color: white;
+}
+
 #main-menu a:hover {
   color: white;
 }
