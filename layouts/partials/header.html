@@ -1,15 +1,28 @@
-<header>
-	<nav id="language-menu">
-		<a href="/home">English</a>
-		<a href="/startseite">Deutsch</a>
-	</nav>
+<!DOCTYPE html>
+<html lang="{{ .Params.lang }}">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/css/normalize.css">
+	<link rel="stylesheet" href="/css/skeleton.css">
+	<link rel="stylesheet" href="/css/main.css">
+	<link rel="stylesheet" href="/fonts/raleway/raleway.css">
+</head>
+<body>
+  <header>
+  	<nav id="language-menu">
+  		<a href="/home">EN</a>
+  		<a href="/startseite">DE</a>
+  	</nav>
+  
+    <div class="container">
+  	  <nav id="main-menu">
+  	  	{{ range (index .Site.Taxonomies.menu .Params.lang).Pages }}
+  	  	<a href="{{ .Permalink  }}">{{ .LinkTitle }}</a>
+  	  	{{ end }}
+  	  	<div class="clear"></div>
+  	  </nav>
+    </div>
+  </header>
 
-	<nav id="main-menu">
-		{{ range (index .Site.Taxonomies.menu .Params.lang).Pages }}
-		<a href="{{ .Permalink  }}">{{ .LinkTitle }}</a>
-		{{ end }}
-		<div class="clear"></div>
-	</nav>
-</header>
-
-<h2 id="subtitle">{{ .Title }}</h2>
+  <div class="container">
