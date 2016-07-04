@@ -15,14 +15,7 @@
   		<a href="/de/home">DE</a>
   	</nav>
   
-    <div class="container">
-  	  <nav id="main-menu">
-  	  	{{ range (index .Site.Taxonomies.menu .Params.lang).Pages }}
-  	  	<a href="{{ .Permalink  }}">{{ .LinkTitle }}</a>
-  	  	{{ end }}
-  	  	<div class="clear"></div>
-  	  </nav>
-    </div>
+		{{ partial "menu.html" . }}
   </header>
 
   <div class="container">

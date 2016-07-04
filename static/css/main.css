@@ -6,7 +6,57 @@ body {
   padding: 0;
 }
 
+/* Bigger than 550 */
+@media (min-width: 550px) {
+  .section .banner {
+    padding: 9rem 0 8rem;
+  }
+  .logo {
+    position: absolute;
+    top: 5rem;
+    max-height: 200px;
+  }
+	h1 {
+		font-size: 3.5rem;
+	}
+	h2 {
+		font-size: 2.5rem;
+	}
+}
 
+@media (min-width: 750px) {
+  .section .banner {
+    padding: 13rem 0 12rem;
+  }
+	
+  .logo {
+    max-height: 300px;
+  }
+	
+	h1 {
+		font-size: 4rem;
+	}
+	h2 {
+		font-size: 3rem;
+	}
+}
+
+@media (min-width: 1000px) { 
+  .section .banner {
+    padding: 16rem 0 15rem;
+  }
+	
+  .logo {
+    max-height: 350px;
+  }
+	
+	h1 {
+		font-size: 5.5rem;
+	}
+	h2 {
+		font-size: 4.5rem;
+	}
+}
 
 h1, h2 {
   font-weight: 400;
@@ -14,22 +64,32 @@ h1, h2 {
 
 header {
   background-color: rgb(79,33,33);
+	margin-bottom: 2em;
 }
 
 .clear { clear: both; }
 
 
+.banner img {
+	max-width: 100%;
+}
+
 #language-menu, #main-menu, #title, #subtitle {
   font-variant: small-caps;
 }
 
-
 /* Language Menu */
 
-#language-menu { float: right; }
+#language-menu { 
+	float: right; 
+	margin-right: 1em;
+}
 #language-menu a {
+  float: left;
+  padding: 0.9em 0.5em 0.9em 0em;
   text-decoration: none;
-  color: white; 
+  color: rgb(157,157,157);
+	font-size: 90%;
 }
 #language-menu a:hover { 
   color: white; 

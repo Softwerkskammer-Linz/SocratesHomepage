@@ -1,6 +1,6 @@
 +++
-weight = 10
-title = "Alpha"
+weight = 50
+title = "Code of Conduct"
 
 lang = "en"
 groups = ["home"]

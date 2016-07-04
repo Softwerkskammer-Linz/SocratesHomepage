@@ -4,13 +4,21 @@
 
 	{{ range .Site.Taxonomies.groups.home.Pages.ByWeight }}
 	{{ if eq .Params.lang $.Params.lang }}
-	<article class="post">
+	
+	
+	<section class="section {{ .Params.class  }}">
+		{{ if .Params.anchor }}
+		<h3><a name="{{ .Params.anchor }}" href='{{ .Permalink }}'>{{ .Title }}</a> </h3>
+		{{ else }}
 		<h3><a href='{{ .Permalink }}'>{{ .Title }}</a> </h3>
-		<div class="post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }} - {{ .FuzzyWordCount }} Words</div>
+		{{ end }}
 		{{ .Summary }}
+		{{ if isset .Params "noreadmore" }}
+		{{ else }}
 		<a href='{{ .Permalink }}'><nobr>{{ ( index $.Site.Data.translations $.Params.lang ).read_more }}
  →</nobr></a>
-	</article>
+ 		{{ end }}
+	</section>
 	{{ end }}
 	{{ end }}
 {{ else }}
