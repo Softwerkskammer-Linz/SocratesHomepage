@@ -1,10 +1,9 @@
 +++
-weight = 60
-title = "Partners"
-url = "en/partners"
-anchor = "partners"
-
-lang = "en"
+weight = 50
+title = "Code of Conduct"
+url = "de/code-of-conduct"
+anchor = "code-of-conduct"
+lang = "de"
 groups = ["home"]
 +++
 

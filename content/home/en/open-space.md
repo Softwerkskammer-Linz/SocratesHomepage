@@ -1,6 +1,7 @@
 +++
 weight = 30
 title = "Open Space"
+url = "en/open-space"
 anchor = "open-space"
 
 lang = "en"

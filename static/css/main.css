@@ -44,7 +44,8 @@ header {
   float: left;
   text-decoration: none;
   color: rgb(157,157,157);
-	font-size: 200%;
+	font-size: 100%;
+  padding: 1em 0.2em;
 }
 #language-menu a:hover { 
   color: white; 

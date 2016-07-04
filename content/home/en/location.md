@@ -1,6 +1,8 @@
 +++
 weight = 40
 title = "Location"
+
+url = "en/location"
 anchor = "location"
 
 lang = "en"

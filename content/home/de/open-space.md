@@ -1,5 +1,8 @@
 +++
-title = "Erstens"
+weight = 30
+title = "Open Space"
+url = "de/open-space"
+anchor = "open-space"
 
 lang = "de"
 groups = ["home"]

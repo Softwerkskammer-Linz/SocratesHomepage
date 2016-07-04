@@ -1,10 +1,10 @@
 +++
-weight = 60
-title = "Partners"
-url = "en/partners"
-anchor = "partners"
+weight = 20
+title = "Karten"
+url = "de/karten"
+anchor = "karten"
 
-lang = "en"
+lang = "de"
 groups = ["home"]
 +++
 

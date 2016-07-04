@@ -1,6 +1,7 @@
 +++
 weight = 20
 title = "Tickets"
+url = "en/tickets"
 anchor = "tickets"
 
 lang = "en"

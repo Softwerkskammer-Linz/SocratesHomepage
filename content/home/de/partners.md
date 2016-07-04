@@ -1,10 +1,10 @@
 +++
 weight = 60
-title = "Partners"
-url = "en/partners"
-anchor = "partners"
+title = "Partner"
+url = "de/partner"
+anchor = "partner"
 
-lang = "en"
+lang = "de"
 groups = ["home"]
 +++
 

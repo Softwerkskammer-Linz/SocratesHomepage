@@ -1,12 +1,14 @@
 +++
-weight = 60
-title = "Partners"
-url = "en/partners"
-anchor = "partners"
+weight = 40
+title = "Ort"
 
-lang = "en"
+url = "de/ort"
+anchor = "ort"
+
+lang = "de"
 groups = ["home"]
 +++
+
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, porro, doloribus ducimus reprehenderit nobis at voluptates ipsa dicta nostrum perferendis in vitae. Magnam, quia officia modi incidunt tenetur ratione cum.
 

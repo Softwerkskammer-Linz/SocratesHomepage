@@ -1,10 +1,8 @@
 {{ partial "header.html" . }}
-
 {{ if .Params.listing }}
 
 	{{ range .Site.Taxonomies.groups.home.Pages.ByWeight }}
 	{{ if eq .Params.lang $.Params.lang }}
-	
 	
 	<section class="section {{ .Params.class  }}">
 		{{ if .Params.anchor }}
@@ -22,6 +20,7 @@
 	{{ end }}
 	{{ end }}
 {{ else }}
+  <h2>{{ .Title }} </h2>
 	{{ .Content }}
 {{ end }}
 

@@ -2,6 +2,7 @@
 weight = 10
 title = "Socrates in a nutshell"
 
+url = "en/nutshell"
 anchor = "nutshell"
 
 lang = "en"
