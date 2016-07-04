@@ -4,7 +4,7 @@ linktitle = "Home"
 url = "/home"
 
 lang = "en"
-menu = ["en"]
+disable_menu = ["en"]
 menu_weight = 0
 +++
 

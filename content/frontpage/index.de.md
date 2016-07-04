@@ -4,7 +4,7 @@ linktitle = "Startseite"
 url = "/startseite"
 
 lang = "de"
-menu = ["de"]
+disable_menu = ["de"]
 menu_weight = 0
 +++
 

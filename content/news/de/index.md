@@ -5,6 +5,6 @@ url = "/neuigkeiten"
 
 listing = true
 lang = "de"
-disabled_menu = ["de"]
-disabled_menu_weight = 10
+disable_menu = ["de"]
+disable_menu_weight = 10
 +++

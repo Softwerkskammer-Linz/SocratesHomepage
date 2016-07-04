@@ -1,11 +1,8 @@
 {{ partial "header.html" . }}
 
-
-<h1>{{ .Params.lang }}</h1>
-
 {{ if .Params.listing }}
 
-	{{ range .Site.Taxonomies.groups.news.Pages }}
+	{{ range .Site.Taxonomies.groups.home.Pages.ByWeight }}
 	{{ if eq .Params.lang $.Params.lang }}
 	<article class="post">
 		<h3><a href='{{ .Permalink }}'>{{ .Title }}</a> </h3>

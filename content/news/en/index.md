@@ -5,6 +5,6 @@ url = "/news"
 
 listing = true
 lang = "en"
-disabled_menu = ["en"]
-disabled_menu_weight = 10
+disable_menu = ["en"]
+disable_menu_weight = 10
 +++
