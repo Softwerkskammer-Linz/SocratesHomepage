@@ -6,6 +6,7 @@ anchor = "tickets"
 
 lang = "en"
 groups = ["home"]
+noreadmore = true
 +++
 
 The ticket sale will start in late July. Right now we are looking for sponsors to make sure the tickets are as affordable as possible.
