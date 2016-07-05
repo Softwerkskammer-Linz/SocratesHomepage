@@ -110,6 +110,14 @@ header {
 	}
 }
 
+section {
+  padding: 1em 0em;
+  margin-top: 2em;
+}
+
+section:nth-child(odd) {
+  background: #ddd;  
+}
 
 /* Bigger than 550 */
 @media (min-width: 550px) {
