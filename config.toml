@@ -1,4 +1,4 @@
-baseurl = "http://sokrates-linz.org"
+baseurl = "http://socrates-linz.org"
 
 [taxonomies]
 group = "groups"
