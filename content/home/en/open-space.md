@@ -4,6 +4,7 @@ title = "Open Space"
 url = "en/open-space"
 anchor = "open-space"
 
+readmorelink = "Read More: Session types, what to expect"
 lang = "en"
 groups = ["home"]
 +++

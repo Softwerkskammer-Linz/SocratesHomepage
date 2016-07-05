@@ -13,8 +13,13 @@
 		{{ .Summary }}
 		{{ if isset .Params "noreadmore" }}
 		{{ else }}
+		{{ if .Params.readmorelink }}
+		<a href='{{ .Permalink }}'><nobr>{{ .Params.readmorelink }}
+ →</nobr></a>
+		{{ else }}
 		<a href='{{ .Permalink }}'><nobr>{{ ( index $.Site.Data.translations $.Params.lang ).read_more }}
  →</nobr></a>
+ 		{{ end }}
  		{{ end }}
 	</section>
 	{{ end }}

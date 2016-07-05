@@ -5,6 +5,7 @@ url = "en/code-of-conduct"
 anchor = "code-of-conduct"
 lang = "en"
 groups = ["home"]
+readmorelink = "Read More: Slightly longer version with all the details you need."
 +++
 
 We are dedicated to create a conference where everybody can learn, teach, share, network and have a 

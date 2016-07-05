@@ -1,23 +1,23 @@
 
 body {
-  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #333;
-  margin: 0em;
-  padding: 0;
+	font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #333;
+	margin: 0em;
+	padding: 0;
 }
 
 
 #language-menu, #main-menu {
-  display: none;
+	display: none;
 }
 
 
 h1, h2 {
-  font-weight: 400;
+	font-weight: 400;
 }
 
 header {
-  background-color: rgb(79,33,33);
+	background-color: rgb(79,33,33);
 	margin-bottom: 2em;
 }
 
@@ -29,7 +29,7 @@ header {
 }
 
 #language-menu, #main-menu, #title, #subtitle {
-  font-variant: small-caps;
+	font-variant: small-caps;
 }
 
 
@@ -41,14 +41,14 @@ header {
 	margin-right: 1em;
 }
 #language-menu a {
-  float: left;
-  text-decoration: none;
-  color: rgb(157,157,157);
+	float: left;
+	text-decoration: none;
+	color: rgb(157,157,157);
 	font-size: 100%;
-  padding: 1em 0.2em;
+	padding: 1em 0.2em;
 }
 #language-menu a:hover { 
-  color: white; 
+	color: white; 
 }
 
 /* Main Menu */
@@ -57,55 +57,71 @@ header {
 }
 
 #main-menu a {
-  float: left;
-  text-align: center;
-  
-  padding: 0.5em 1em 0.5em 0em;
-  margin: 0;
-  
-  text-decoration: none;
-  font-size: 120%;
-  color: rgb(157,157,157);
+	float: left;
+	text-align: center;
+	
+	padding: 0.5em 1em 0.5em 0em;
+	margin: 0;
+	
+	text-decoration: none;
+	font-size: 120%;
+	color: rgb(157,157,157);
 }
 
 #main-menu .active {
-  color: white;
+	color: white;
 }
 
 #main-menu a:hover {
-  color: white;
+	color: white;
+}
+
+.blocks {
+  margin-bottom: 1em;
+}
+
+.block {
+	text-align: justify;
+}
+
+.block-heading {
+	text-align: center;
+}
+
+.block-heading i {
+	font-size: 150%;
 }
 
 /* Footer */
 
 #footer {
-    margin: 50px 0;
-    text-align: center;
+		margin: 50px 0;
+		text-align: center;
 }
 
 @media (min-width: 400px) {
-  #language-menu, #main-menu {
-    display: block;
-  }
-  
-  #main-menu a {
-    padding: 1.2em 1em 1.2em 0em;
-    font-size: 0.8em;
-  }
+	#language-menu, #main-menu {
+		display: block;
+	}
+	
+	#main-menu a {
+		padding: 1.2em 1em 1.2em 0em;
+		font-size: 0.8em;
+	}
 }
 
 
 /* Bigger than 550 */
 @media (min-width: 550px) {
-  .section .banner {
-    padding: 9rem 0 8rem;
-  }
-    
-  .logo {
-    position: absolute;
-    top: 5rem;
-    max-height: 200px;
-  }
+	.section .banner {
+		padding: 9rem 0 8rem;
+	}
+		
+	.logo {
+		position: absolute;
+		top: 5rem;
+		max-height: 200px;
+	}
 	h1 {
 		font-size: 3.5rem;
 	}
@@ -113,17 +129,17 @@ header {
 		font-size: 2.5rem;
 	}
 
-  
+	
 }
 
 @media (min-width: 750px) {
-  .section .banner {
-    padding: 13rem 0 12rem;
-  }
-  	
-  .logo {
-    max-height: 300px;
-  }
+	.section .banner {
+		padding: 13rem 0 12rem;
+	}
+		
+	.logo {
+		max-height: 300px;
+	}
 	
 	h1 {
 		font-size: 4rem;
@@ -131,21 +147,21 @@ header {
 	h2 {
 		font-size: 3rem;
 	}
-  #main-menu a {
-    padding: 0.7em 0.9em 0.7em 0em;
-    font-size: 1.0em;
-  }
-  
+	#main-menu a {
+		padding: 0.7em 0.9em 0.7em 0em;
+		font-size: 1.0em;
+	}
+	
 }
 
 @media (min-width: 1000px) { 
-  .section .banner {
-    padding: 16rem 0 15rem;
-  }
+	.section .banner {
+		padding: 16rem 0 15rem;
+	}
 	
-  .logo {
-    max-height: 350px;
-  }
+	.logo {
+		max-height: 350px;
+	}
 	
 	h1 {
 		font-size: 5.5rem;
@@ -153,8 +169,8 @@ header {
 	h2 {
 		font-size: 4.5rem;
 	}
-  #main-menu a {
-    font-size: 1.2em;
-  }
-  
+	#main-menu a {
+		font-size: 1.2em;
+	}
+	
 }
