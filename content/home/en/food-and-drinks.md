@@ -7,16 +7,27 @@ url = "en/food_and_drinks"
 lang = "en"
 groups = ["home"]
 bannerimage = "/images/DSC05694.jpg"
+noreadmore = true
 +++
 
-Location
+<div class="row blocks">
+	<div class="four columns block">
+		<h3 class="block-heading"><i class="fa fa-coffee" aria-hidden="true"></i><br/>Drinks</h3>
+		We will have free coffee, soft drinks and water during the "day sessions" in 8th floor. You will get a drinks voucher for some free drinks you can
+		consume during dinner and the evening sessions. You will have to pay for the drinks you consume after you have spent
+		all your drink vouchers.
+	</div>
+	<div class="four columns block">
+		<h3 class="block-heading"><i class="fa fa-leaf" aria-hidden="true"></i><br/>Lunch</h3>
+		We will have a self-service lunch catered by restaurant "niu". We will order vegan and non-vegan food. If there is anything
+		you cannot eat for any reason, please tell us: <a href="mailto:Business@DavidTanzer.net?Subject=SoCraTes%20Day%20Linz%3A%20Food%20Preferences">Business@DavidTanzer.net</a>.
+	</div>
+	<div class="four columns block">
+		<h3 class="block-heading"><i class="fa fa-cutlery" aria-hidden="true"></i><br/>Dinner</h3>
+		In the evening, we will have dinner at restaurant <a href="http://www.niu.at/">niu</a>. The dinner and some drinks are
+		included in the ticket price: You will get vouchers which you can spend at the restaurant. After you spent all your vouchers,
+		you'll have to pay for any further food and drinks.
+	</div>
+</div>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, porro, doloribus ducimus reprehenderit nobis at voluptates ipsa dicta nostrum perferendis in vitae. Magnam, quia officia modi incidunt tenetur ratione cum.
-
-Magni, maxime, eum, veniam nam iusto rem error id tenetur porro sed modi reprehenderit excepturi impedit saepe vero ducimus quae consequuntur cupiditate est aperiam in cumque sapiente. Ullam, ex, dolorum.
-
-Pariatur, mollitia dignissimos commodi nostrum dicta accusantium nisi doloremque ratione molestias ex similique a porro quibusdam harum incidunt veniam laborum ipsum facere impedit maiores quam ad vero in obcaecati molestiae.
-
-Nam, nisi minus voluptatum dolorem quia doloremque officia architecto facere laborum ullam doloribus voluptates dolores quaerat necessitatibus hic expedita reiciendis inventore tenetur aliquam ab! Aliquid odit veniam accusantium maxime necessitatibus.
-
-Eos ipsam iusto optio odit id et nisi corporis hic. Iusto, cum, facere officiis ad modi numquam quam recusandae soluta rem consequuntur esse tenetur tempore vel. Veritatis, labore et aliquid?
+<!--more-->
