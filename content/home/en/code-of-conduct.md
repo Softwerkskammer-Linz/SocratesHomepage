@@ -44,7 +44,7 @@ If you need help or if you have any further questions, please contact us:
 <a href="https://twitter.com/SoCraTesLinz">@SoCraTesLinz</a> | +43-676-53 47 723 | Ask the conference staff
 
 #### Credits
-These values are inspired by the following works.  
+These values are inspired by the following works: 
 <a href="https://www.socrates-conference.de/values.html">SoCraTes Conference Values</a>  
 <a href="https://www.djangoproject.com/conduct/">Django Code of Conduct</a>  
 <a href="http://citizencodeofconduct.org/">Citizenship Code of Conduct</a>
