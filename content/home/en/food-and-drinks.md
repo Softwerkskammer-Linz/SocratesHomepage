@@ -1,13 +1,12 @@
 +++
-weight = 40
-title = "Location"
+weight = 47
+title = "Food and Drinks"
 
-url = "en/location"
-anchor = "location"
+url = "en/food_and_drinks"
 
 lang = "en"
 groups = ["home"]
-bannerimage = "/images/DSC05686.jpg"
+bannerimage = "/images/DSC05694.jpg"
 +++
 
 Location

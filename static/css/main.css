@@ -18,11 +18,16 @@ h1, h2 {
 
 header {
 	background-color: rgb(79,33,33);
-	margin-bottom: 2em;
+	height: 25%;
 }
 
 .clear { clear: both; }
 
+.banner-image {
+	background: no-repeat center center scroll;
+	background-size: cover;
+	height: 33vh
+}
 
 .banner img {
 	max-width: 100%;
@@ -77,7 +82,7 @@ header {
 }
 
 .blocks {
-  margin-bottom: 1em;
+	margin-bottom: 1em;
 }
 
 .block {
@@ -112,10 +117,10 @@ header {
 
 section {
   padding: 1em 0em;
-  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
-section:nth-child(odd) {
+section:nth-child(even) {
   background: #ddd;  
 }
 

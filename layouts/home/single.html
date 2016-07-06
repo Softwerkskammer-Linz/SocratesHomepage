@@ -2,6 +2,9 @@
 {{ if .Params.listing }}
 
 	{{ range .Site.Taxonomies.groups.home.Pages.ByWeight }}
+	{{ if .Params.bannerimage}}
+	<div class="banner-image" style="background-image: url({{ .Params.bannerimage }})"></div>
+	{{end}}
 	{{ if eq .Params.lang $.Params.lang }}
 	<section class="section {{ .Params.class  }}">
 	<div class="container">

@@ -1,13 +1,12 @@
 +++
-weight = 40
-title = "Location"
+weight = 45
+title = "Getting There"
 
-url = "en/location"
-anchor = "location"
+url = "en/getting_there"
 
 lang = "en"
 groups = ["home"]
-bannerimage = "/images/DSC05686.jpg"
+bannerimage = "/images/DSC05683.jpg"
 +++
 
 Location
