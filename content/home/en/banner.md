@@ -5,8 +5,8 @@ weight = 0
 lang = "en"
 groups = ["home"]
 noreadmore = true
+bannerimage = "/images/DSC05678.jpg"
 +++
-
 
 <div class="banner">
   	<div class="row">

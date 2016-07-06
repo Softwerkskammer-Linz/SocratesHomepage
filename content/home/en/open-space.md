@@ -7,11 +7,16 @@ anchor = "open-space"
 readmorelink = "Read More: Detailed description, session types, what to expect"
 lang = "en"
 groups = ["home"]
+bannerimage = "/images/DSC03115.JPG"
 +++
 
-We will organize the SoCraTes Day Linz as an "Open Space". This is an "unconference" format that is designed to maximize learning and sharing among participants. Be prepared to be surprised!
+We will organize the SoCraTes Day Linz as an "Open Space". This is an "unconference" format that is designed to maximize 
+learning and sharing among participants. Be prepared to be surprised!
 
-<a href="https://en.wikipedia.org/wiki/Open_Space_Technology">"Open Space Technology"</a> is a meeting format where every participant takes part in defining the agenda and the schedule. Everyone can propose to give a talk or workshop or to start a discussion group. Or you can ask to learn more about a topic from the first two days, and maybe you'll find a teacher who will host a session about it together with you. Then we'll all work together to find a time slot and a room for you, and you're ready to go.
+<a href="https://en.wikipedia.org/wiki/Open_Space_Technology">"Open Space Technology"</a> is a meeting format where every 
+participant takes part in defining the agenda and the schedule. Everyone can propose to give a talk or workshop or to start a 
+discussion group. Or you can ask to learn more about a topic and maybe you'll find a teacher who will host a session about it 
+together with you. Then we'll all work together to find a time slot and a room for you, and you're ready to go.
 
 So: You decide, together with your peers, what you can learn on this day. Make the most of it!
 

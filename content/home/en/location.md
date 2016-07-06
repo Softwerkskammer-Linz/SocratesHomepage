@@ -7,16 +7,18 @@ anchor = "location"
 
 lang = "en"
 groups = ["home"]
+bannerimage = "/images/DSC05686.jpg"
+noreadmore = true
 +++
 
-Location
+SoCraTes Day Linz 2016 will be at <a href="http://www.linz.at/wissensturm/">Wissensturm Linz</a>. It is
+right across the street from Linz main railway station ("Linz Hauptbahnhof") and can be easily reached by
+bus, tram and train.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, porro, doloribus ducimus reprehenderit nobis at voluptates ipsa dicta nostrum perferendis in vitae. Magnam, quia officia modi incidunt tenetur ratione cum.
+We will have the whole 8th floor for the conference. You can find more information and a floor plan here: 
+<a href="http://www.linz.at/wissensturm/90.asp">Seminarräume im Wissensturm</a> (German homepage).
 
-Magni, maxime, eum, veniam nam iusto rem error id tenetur porro sed modi reprehenderit excepturi impedit saepe vero ducimus quae consequuntur cupiditate est aperiam in cumque sapiente. Ullam, ex, dolorum.
+Restaurant "niu" is at the ground floor of Wissensturm. They will provide the catering for us and we will have
+the evening sessions in this restaurant.
 
-Pariatur, mollitia dignissimos commodi nostrum dicta accusantium nisi doloremque ratione molestias ex similique a porro quibusdam harum incidunt veniam laborum ipsum facere impedit maiores quam ad vero in obcaecati molestiae.
-
-Nam, nisi minus voluptatum dolorem quia doloremque officia architecto facere laborum ullam doloribus voluptates dolores quaerat necessitatibus hic expedita reiciendis inventore tenetur aliquam ab! Aliquid odit veniam accusantium maxime necessitatibus.
-
-Eos ipsam iusto optio odit id et nisi corporis hic. Iusto, cum, facere officiis ad modi numquam quam recusandae soluta rem consequuntur esse tenetur tempore vel. Veritatis, labore et aliquid?
+<!--more-->
