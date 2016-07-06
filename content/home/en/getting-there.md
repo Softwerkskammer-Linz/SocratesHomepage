@@ -7,16 +7,35 @@ url = "en/getting_there"
 lang = "en"
 groups = ["home"]
 bannerimage = "/images/DSC05683.jpg"
+noreadmore = true
 +++
 
-Location
+You can come to SoCraTes Day Linz by train, bus, car or by plane.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, porro, doloribus ducimus reprehenderit nobis at voluptates ipsa dicta nostrum perferendis in vitae. Magnam, quia officia modi incidunt tenetur ratione cum.
+<div class="row blocks">
+	<div class="three columns block">
+		<h3 class="block-heading"><i class="fa fa-plane" aria-hidden="true"></i><br/>Plane</h3>
+		You can travel to LNZ (Linz Airport) and take the bus to "Hauptbahnhof", or you can travel to LZS
+		(Linz Railway Station) via air rail from VIE (Vienna airport).
+	</div>
+	<div class="three columns block">
+		<h3 class="block-heading"><i class="fa fa-train" aria-hidden="true"></i><br/>Train</h3>
+		There are high speed trains to "Linz Hauptbahnhof" (Linz Railway Station) from Vienna, Salzburg, Munich 
+		and Nürnberg. Our venue is right next to the railway station.
+	</div>
+	<div class="three columns block">
+		<h3 class="block-heading"><i class="fa fa-bus" aria-hidden="true"></i><br/>Bus</h3>
+		There is a <a href="https://www.westbus.at">Westbus</a> bus from Graz (AT) and Praha (CZ). The bus
+		stops right next to our venue. 
+	</div>
+	<div class="three columns block">
+		<h3 class="block-heading"><i class="fa fa-car" aria-hidden="true"></i><br/>Car</h3>
+		If you come by car, you can park in the parking garage "Hauptbahnhof-Wissensturm". The address is "Wissensturm - 
+		Kärntnerstraße 26 - 4020  Linz"
+	</div>
+</div>
 
-Magni, maxime, eum, veniam nam iusto rem error id tenetur porro sed modi reprehenderit excepturi impedit saepe vero ducimus quae consequuntur cupiditate est aperiam in cumque sapiente. Ullam, ex, dolorum.
+Hotel <a href="http://www.ibis.com/de/hotel-1722-ibis-linz-city/index.shtml">Ibis Linz City</a> is right next to Wissensturm, our venue.
+Other hotels in the city are in walking distance or can be easily reached by tram or bus.
 
-Pariatur, mollitia dignissimos commodi nostrum dicta accusantium nisi doloremque ratione molestias ex similique a porro quibusdam harum incidunt veniam laborum ipsum facere impedit maiores quam ad vero in obcaecati molestiae.
-
-Nam, nisi minus voluptatum dolorem quia doloremque officia architecto facere laborum ullam doloribus voluptates dolores quaerat necessitatibus hic expedita reiciendis inventore tenetur aliquam ab! Aliquid odit veniam accusantium maxime necessitatibus.
-
-Eos ipsam iusto optio odit id et nisi corporis hic. Iusto, cum, facere officiis ad modi numquam quam recusandae soluta rem consequuntur esse tenetur tempore vel. Veritatis, labore et aliquid?
+<!--more-->
