@@ -16,6 +16,7 @@ body {
 
 h1, h2 {
 	font-weight: 400;
+  color: rgb(215,57,46);
 }
 
 a {
@@ -45,6 +46,15 @@ header {
 
 .banner img {
 	max-width: 100%;
+}
+
+.banner h1 {
+  padding: 1em 0 0 0;
+  color: black;
+}
+
+.banner h2 {
+  color: black;
 }
 
 .banner .columns {
@@ -148,14 +158,16 @@ section:nth-child(even) {
 
 /* Bigger than 550 */
 @media (min-width: 550px) {
+  section {
+    padding: 3em 0 3em 0em;
+  }
+
   section.banner {
+    padding: 1em 0 0em 0em;
     background-image: url('/images/DSC05678.jpg');
     background-size: cover;
   }
   
-  section {
-    padding: 3em 0 3em 0em;
-  }
 
 	h1 {
 		font-size: 3.5rem;
@@ -174,7 +186,7 @@ section:nth-child(even) {
 	}
 	#main-menu a {
 		padding: 0.7em 0.9em 0.7em 0em;
-		font-size: 1.2em;
+		font-size: 1.0em;
 	}
 	
 }
@@ -188,7 +200,7 @@ section:nth-child(even) {
 		font-size: 4.5rem;
 	}
 	#main-menu a {
-		font-size: 1.5em;
+		font-size: 1.2em;
 	}
 	
 }
