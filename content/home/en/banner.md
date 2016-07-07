@@ -16,6 +16,7 @@ _bannerimage = "/images/DSC05678.jpg"
     	<div class="eight columns">
 				<h1>SoCraTes Day Linz</h1>
 				<h2>October 29<sup>th</sup> 2016</h2>
+				<h3><a href="https://twitter.com/SoCraTesAT"><i class="fa fa-twitter" aria-hidden="true"></i> @SoCraTesAT</a></h3>
 			</div>
 	</div>
 </div>
