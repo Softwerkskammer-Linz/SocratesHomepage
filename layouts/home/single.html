@@ -30,8 +30,10 @@
 	{{ end }}
 {{ else }}
 	<div class="container">
-  <h2>{{ .Title }} </h2>
-	{{ .Content }}
+    <section>
+      <h2>{{ .Title }} </h2>
+      {{ .Content }}
+    </section>
 	</div>
 {{ end }}
 
