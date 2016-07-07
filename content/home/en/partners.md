@@ -31,13 +31,13 @@ noreadmore = true
 </div>
 <div class="row blocks">
 	<div class="four columns block">
-		<div class="block-heading"><a href="mailto:Business@DavidTanzer.net?Subject=SoCraTes%20Day%20Linz%20Sponsoring">
+		<div class="block-heading"><a href="https://www.softwerkskammer.org/groups/linz">
 			<img src="/images/Softwerkskammer.png" alt="Softwerkskammer Logo" style="max-height: 5em; max-width: 100%;"><br/>
 			Softwerkskammer
 		</a></div>
 	</div>
 	<div class="four columns block">
-		<div class="block-heading"><a href="https://www.softwerkskammer.org/groups/linz">
+		<div class="block-heading"><a href="mailto:Business@DavidTanzer.net?Subject=SoCraTes%20Day%20Linz%20Sponsoring">
 			<i class="fa fa-question" aria-hidden="true" style="font-size: 5em;"></i><br/>
 			Your Company
 		</a></div>
