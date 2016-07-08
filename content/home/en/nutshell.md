@@ -31,4 +31,6 @@ SoCraTes Day Linz is a one-day open space conference about software craftsmanshi
 	</div>
 </div>
 
+The main language of the event (facilitation, group activities) will be English. Sessions can be in German if everybody in the audience of the session understands German or if you announce the session as "German session".
+
 <!--more-->
