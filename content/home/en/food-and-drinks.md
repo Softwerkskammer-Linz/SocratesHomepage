@@ -17,7 +17,7 @@ noreadmore = true
 	</div>
 	<div class="four columns block">
 		<h3 class="block-heading"><i class="fa fa-leaf" aria-hidden="true"></i><br/>Lunch</h3>
-		We will have a self-service lunch catered by restaurant "niu". There will be vegan and non-vegan food. If there is anything you cannot eat for any reason, please tell us: <a href="mailto:Business@DavidTanzer.net?Subject=SoCraTes%20Day%20Linz%3A%20Food%20Preferences">Business@DavidTanzer.net</a>.
+		We will have a self-service lunch catered by restaurant "niu". There will be vegan and non-vegan food. If there is anything you cannot eat for any reason, please tell us: <a href="mailto:info@socrates-conference.at?Subject=SoCraTes%20Day%20Linz%3A%20Food%20Preferences">info@socrates-conference.at</a>.
 	</div>
 	<div class="four columns block">
 		<h3 class="block-heading"><i class="fa fa-cutlery" aria-hidden="true"></i><br/>Dinner</h3>
