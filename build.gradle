@@ -1,0 +1,67 @@
+
+
+
+repositories {
+	mavenCentral()
+}
+
+configurations { 
+	antScpClasspath
+}
+
+dependencies {
+	antScpClasspath 'org.apache.ant:ant-jsch:1.+'
+}
+
+ant.taskdef(
+	name: 'scp',
+	classname: 'org.apache.tools.ant.taskdefs.optional.ssh.Scp',
+	classpath: configurations.antScpClasspath.asPath
+)
+
+
+
+task hugo(type:Exec) {
+  workingDir '.'
+  commandLine 'hugo'
+}
+
+
+
+task upload() {
+  doLast  {
+		
+		def uploadHost =  ""
+		if (project.ext.properties.containsKey("uploadHost")) {
+			uploadHost = project.ext.uploadHost
+		} else {
+			uploadHost =  System.console().readLine('Please enter the hostname: ')
+		}
+		
+		def uploadUser =  ""
+		if (project.ext.properties.containsKey("uploadUser")) {
+			uploadUser = project.ext.uploadUser
+		} else {
+			uploadUser =  System.console().readLine('Please enter the username: ')
+		}
+		
+		
+		def uploadPassword =  ""
+		if (project.ext.properties.containsKey("uploadPassword")) {
+			uploadPassword = project.ext.uploadPassword
+		} else {
+			def password =  System.console().readPassword('Please enter the password: ')
+			uploadPassword = new String(password)
+		}
+		
+		ant.scp(
+			todir: uploadUser + '@' + uploadHost + ':~/socrates/',
+			port: 22,
+			password: uploadPassword) {
+
+				fileset(dir: 'public') {
+					include(name: '**/**')
+				}
+		}
+	}
+}
