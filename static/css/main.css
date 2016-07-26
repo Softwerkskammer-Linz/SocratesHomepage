@@ -51,12 +51,19 @@ header {
 .banner h1 {
   padding: 1em 0 0 0;
   color: black;
+	text-shadow: 1px 1px 2px white;
 }
 
 .banner h2 {
   color: black;
+	text-shadow: 1px 1px 2px white;
 }
 
+.banner h3 {
+	font-size: 150%;
+	margin: 0;
+	text-shadow: 1px 1px 2px white;
+}
 .banner .columns {
   height: 66vh;
 }
