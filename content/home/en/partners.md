@@ -31,6 +31,12 @@ noreadmore = true
 </div>
 <div class="row blocks">
 	<div class="four columns block">
+		<div class="block-heading"><a href="https://smarter-ecommerce.com/">
+			<img src="/images/smec-logo-RGB.png" alt="SMEC Logo" style="max-height: 5em"><br/>
+			Smarter Ecommerce
+		</a></div>
+	</div>
+	<div class="four columns block">
 		<div class="block-heading"><a href="http://technologieplauscherl.at/">
 			<img src="/images/Plauscherl_Logo.jpg" alt="Technologieplauscherl Logo" style="max-height: 5em"><br/>
 			Technologieplauscherl
@@ -42,14 +48,14 @@ noreadmore = true
 			SoCraTes 2016
 		</a></div>
 	</div>
+</div>
+<div class="row blocks">
 	<div class="four columns block">
 		<div class="block-heading"><a href="https://www.softwerkskammer.org/groups/linz">
 			<img src="/images/Softwerkskammer.png" alt="Softwerkskammer Logo" style="max-height: 5em; max-width: 100%;"><br/>
 			Softwerkskammer
 		</a></div>
 	</div>
-</div>
-<div class="row blocks">
 	<div class="four columns block">
 		<div class="block-heading"><a href="mailto:info@socrates-conference.at?Subject=SoCraTes%20Day%20Linz%20Sponsoring">
 			<i class="fa fa-question" aria-hidden="true" style="font-size: 5em;"></i><br/>
