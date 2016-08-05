@@ -37,19 +37,25 @@ noreadmore = true
 		</a></div>
 	</div>
 	<div class="four columns block">
+		<div class="block-heading"><a href="http://www.irian.at/">
+			<img src="/images/irian-logo.png" alt="irian Logo" style="max-height: 5em; max-width: 100%; background: #003d6e;"><br/>
+			irian
+		</a></div>
+	</div>
+	<div class="four columns block">
 		<div class="block-heading"><a href="http://technologieplauscherl.at/">
 			<img src="/images/Plauscherl_Logo.jpg" alt="Technologieplauscherl Logo" style="max-height: 5em"><br/>
 			Technologieplauscherl
 		</a></div>
 	</div>
+</div>
+<div class="row blocks">
 	<div class="four columns block">
 		<div class="block-heading"><a href="https://www.socrates-conference.de/">
 			<img src="/images/socrates2016_logo.png" alt="SoCraTes 2016 Logo" style="max-height: 5em; max-width: 100%;"><br/>
 			SoCraTes 2016
 		</a></div>
 	</div>
-</div>
-<div class="row blocks">
 	<div class="four columns block">
 		<div class="block-heading"><a href="https://www.softwerkskammer.org/groups/linz">
 			<img src="/images/Softwerkskammer.png" alt="Softwerkskammer Logo" style="max-height: 5em; max-width: 100%;"><br/>
