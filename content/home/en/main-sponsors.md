@@ -16,5 +16,11 @@ noreadmore = true
 			irian
 		</a></div>
 	</div>
+	<div class="four columns block">
+		<div class="block-heading"><a href="http://www.devland.at/">
+			<img src="/images/karriere.at-Logo.png" alt="Karriere.at Logo" style="max-height: 5em; max-width: 100%;"><br/>
+			Karriere.at
+		</a></div>
+	</div>
 </div>
 <!--more-->

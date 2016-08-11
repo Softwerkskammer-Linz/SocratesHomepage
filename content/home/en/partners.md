@@ -43,13 +43,19 @@ noreadmore = true
 		</a></div>
 	</div>
 	<div class="four columns block">
+		<div class="block-heading"><a href="http://www.devland.at/">
+			<img src="/images/karriere.at-Logo.png" alt="Karriere.at Logo" style="max-height: 5em; max-width: 100%;"><br/>
+			Karriere.at
+		</a></div>
+	</div>
+</div>
+<div class="row blocks">
+	<div class="four columns block">
 		<div class="block-heading"><a href="http://technologieplauscherl.at/">
 			<img src="/images/Plauscherl_Logo.jpg" alt="Technologieplauscherl Logo" style="max-height: 5em"><br/>
 			Technologieplauscherl
 		</a></div>
 	</div>
-</div>
-<div class="row blocks">
 	<div class="four columns block">
 		<div class="block-heading"><a href="https://www.socrates-conference.de/">
 			<img src="/images/socrates2016_logo.png" alt="SoCraTes 2016 Logo" style="max-height: 5em; max-width: 100%;"><br/>
@@ -62,6 +68,8 @@ noreadmore = true
 			Softwerkskammer
 		</a></div>
 	</div>
+</div>
+<div class="row blocks">
 	<div class="four columns block">
 		<div class="block-heading"><a href="mailto:info@socrates-conference.at?Subject=SoCraTes%20Day%20Linz%20Sponsoring">
 			<i class="fa fa-question" aria-hidden="true" style="font-size: 5em;"></i><br/>
