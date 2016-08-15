@@ -9,25 +9,29 @@ lang = "de"
 groups = ["home"]
 +++
 
-SoCraTes Tag Linz ist eine Open-Space Eintageskonferenz über Software Craftsmanship und Testen. Die Konferenz und das Programm wird von allen Teilnehmern gestaltet.
+SoCraTes Tag Linz ist eine Open-Space Eintageskonferenz über Software Craftsmanship und Testen. Die Konferenz und das Programm wird von allen Teilnehmern gemeinsam mit hilfe eines Moderators gestaltet.
 
 <div class="row blocks">
 	<div class="three columns block">
-		<h3 class="block-heading"><i class="fa fa-users" aria-hidden="true"></i><br/>People</h3>
-		We want to bring software developers, testers, architects, designers and other people involved with software development together. We want to learn from each other and share our knowledge.
+		<h3 class="block-heading"><i class="fa fa-users" aria-hidden="true"></i><br/>Zielgruppe</h3>
+    Wir wollen Entwickler, Tester, Architekten, Designer und andere Personen, die in der Softwareentwicklung beteiligt sind, zusammen bringen.
+    Wir wollen von einander Lernen und unser Wissen teilen.
 	</div>
 	<div class="three columns block">
-		<h3 class="block-heading"><i class="fa fa-clipboard" aria-hidden="true"></i><br/>Topics</h3>
-		This conference is about finding better ways to develop software: We will talk and learn about coding, code quality, quality of work, testing, sustainable development, mastery and other topics.
+		<h3 class="block-heading"><i class="fa fa-clipboard" aria-hidden="true"></i><br/>Themen</h3>
+    Diese Konferenz soll dazu beitragen besser wege der Softwareentwicklung zu finden:
+    Wir sprechen und lernen über Programmieren, Code Qualität, Qualität der Arbeit, Testen, nachhaltige Entwicklung, Kontrolle und andere Themen.
 	</div>
 	<div class="three columns block">
-		<h3 class="block-heading"><i class="fa fa-comment" aria-hidden="true"></i><br/>Action</h3>
-		SoCraTes Day Linz is a conference that is entirely created by its participants. We want hands-on coding sessions, sessions focused on discussion, interactive talks, and more.
+		<h3 class="block-heading"><i class="fa fa-comment" aria-hidden="true"></i><br/>Aktivitäten</h3>
+    Der SoCraTes Tag Linz ist eine Konferenz, die von ihren Teilnehmer gestaltet wird. Wir wollen eine Platform bieten 
+    für interaktive Programmiersessions, Diskussionsforen, Interaktive Vorträge und mehr.
 	</div>
 	<div class="three columns block">
 		<h3 class="block-heading"><i class="fa fa-thumbs-up" aria-hidden="true"></i><br/>Fun</h3>
-		We will spend the whole day and the whole evening together. There will be lots of opportunities to meet, connect, learn, teach, share, and have fun together. We also highly encourage "fun sessions".
+    Wir haben einen ganze Tag inklusive Abend Zeit um uns kennen zu lernen, zu Netzwerken, zu lernen, uns auszutauschen und Spaß miteinander zu haben.
+    Natürlich würden wir uns auch über "Fun Sessions" freuen.
 	</div>
 </div>
 
-The main language of the event (facilitation, group activities) will be English. Sessions can be in German if everybody in the audience of the session understands German or if you announce the session as "German session".
+Wir wollen auf dem Event hauptsächlich Englisch sprechen. Einzelne Sessions können auf auf Deutsch sein, falls alle Teilnehmern deutsch verstehen und dies auch entsprechend angekündigt ist.
