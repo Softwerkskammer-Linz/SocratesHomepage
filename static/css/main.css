@@ -193,7 +193,7 @@ section:nth-child(even) {
 	}
 	#main-menu a {
 		padding: 0.7em 0.9em 0.7em 0em;
-		font-size: 1.0em;
+		font-size: 0.9em;
 	}
 	
 }
@@ -207,7 +207,7 @@ section:nth-child(even) {
 		font-size: 4.5rem;
 	}
 	#main-menu a {
-		font-size: 1.2em;
+		font-size: 1.1em;
 	}
 	
 }
