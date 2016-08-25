@@ -38,7 +38,7 @@ noreadmore = true
 	</div>
 	<div class="four columns block">
 		<div class="block-heading"><a href="http://www.irian.at/">
-			<img src="/images/irian-logo.png" alt="irian Logo" style="max-height: 5em; max-width: 100%; background: #003d6e;"><br/>
+			<img src="/images/irian-logo.png" alt="irian Logo" style="max-height: 5em; max-width: 100%;"><br/>
 			irian
 		</a></div>
 	</div>
