@@ -23,13 +23,13 @@ ant.taskdef(
 
 task hugo(type:Exec) {
   workingDir '.'
-  commandLine 'hugo'
+  commandLine '/usr/local/bin/hugo'
 }
 
 
 task gallery(type:Exec) {
   workingDir 'Gallery/Linz2016'
-  commandLine 'sigal', 'build', 'Images', '../../public/gallery/Linz2016'
+  commandLine '/usr/local/bin/sigal', 'build', 'Images', '../../public/gallery/Linz2016'
 }
 
 
