@@ -28,6 +28,13 @@ task hugo(type:Exec) {
 
 
 
+task gallery(type:Exec) {
+  workingDir 'Gallery/Linz2016'
+  commandLine 'sigal build Images ../../public/gallery/Linz2016'
+}
+
+
+
 task upload() {
   doLast  {
 		
