@@ -39,7 +39,7 @@ theme = 'galleria'
 # ----------------
 
 # Size of resized image (default: (640, 480))
-img_size = (800, 600)
+img_size = (1600, 1067)
 
 # Should we use openlayers to show a map of the images where possible?
 # This option only has an effect on the galleria theme for the while.
