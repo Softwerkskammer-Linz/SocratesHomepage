@@ -21,11 +21,11 @@ h1, h2 {
 
 a {
   text-decoration: none;
-  color: rgb(215,57,46);
+  color: rgb(151, 40, 32);
 }
 
 a:hover {
-  color: rgb(151, 40, 32);
+  color: rgb(215,57,46);
 }
 
 header {

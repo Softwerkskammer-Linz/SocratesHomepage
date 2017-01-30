@@ -1,1 +1,41 @@
-<meta http-equiv="refresh" content="0; url=/en" />
+{{ partial "header.html" . }}
+{{ if .Params.listing }}
+
+	{{ range .Site.Taxonomies.groups.home.Pages.ByWeight }}
+	{{ if .Params.bannerimage}}
+	<div class="banner-image" style="background-image: url({{ .Params.bannerimage }})"></div>
+	{{end}}
+	{{ if eq .Params.lang $.Params.lang }}
+	<section class="section {{ .Params.class  }}">
+	<div class="container">
+		{{ if .Params.anchor }}
+		<h3><a name="{{ .Params.anchor }}" href='{{ .Permalink }}'>{{ .Title }}</a> </h3>
+		{{ else }}
+		<h3><a href='{{ .Permalink }}'>{{ .Title }}</a> </h3>
+		{{ end }}
+		{{ .Summary }}
+		{{ if isset .Params "noreadmore" }}
+		{{ else }}
+		{{ if .Params.readmorelink }}
+		<a href='{{ .Permalink }}'><nobr>{{ .Params.readmorelink }}
+ →</nobr></a>
+		{{ else }}
+		<a href='{{ .Permalink }}'><nobr>{{ ( index $.Site.Data.translations $.Params.lang ).read_more }}
+ →</nobr></a>
+ 		{{ end }}
+ 		{{ end }}
+	</div>
+	</section>
+	{{ end }}
+	{{ end }}
+{{ else }}
+	<div class="container">
+    <section>
+      <h2>{{ .Title }} </h2>
+      {{ .Content }}
+    </section>
+	</div>
+{{ end }}
+
+
+{{ partial "footer.html" . }}

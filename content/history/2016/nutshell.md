@@ -2,15 +2,15 @@
 weight = 10
 title = "Socrates in a nutshell"
 
-url = "en/nutshell"
+url = "history/2016/en/nutshell"
 anchor = "nutshell"
 
 noreadmore = true
 lang = "en"
-groups = ["home"]
+groups = ["2016"]
 +++
 
-SoCraTes Days Linz is a two-day conference. On the first day there will be some workshops and on the second day is a open space conference about software craftsmanship and testing. It is entirely created by the participants with a facilitator who will guide through both days.
+SoCraTes Day Linz is a one-day open space conference about software craftsmanship and testing. It is entirely created by the participants with a facilitator who will guide through the day.
 
 <div class="row blocks">
 	<div class="three columns block">
@@ -23,7 +23,7 @@ SoCraTes Days Linz is a two-day conference. On the first day there will be some 
 	</div>
 	<div class="three columns block">
 		<h3 class="block-heading"><i class="fa fa-comment" aria-hidden="true"></i><br/>Action</h3>
-		SoCraTes Days Linz is a conference that is entirely created by its participants. We want hands-on coding sessions, sessions focused on discussion, interactive talks, and more.
+		SoCraTes Day Linz is a conference that is entirely created by its participants. We want hands-on coding sessions, sessions focused on discussion, interactive talks, and more.
 	</div>
 	<div class="three columns block">
 		<h3 class="block-heading"><i class="fa fa-thumbs-up" aria-hidden="true"></i><br/>Fun</h3>
