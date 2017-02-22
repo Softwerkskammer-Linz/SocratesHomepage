@@ -7,7 +7,7 @@ anchor = "open-space"
 readmorelink = "Read More: Detailed description, session types, what to expect"
 lang = "en"
 groups = ["home"]
-bannerimage = "/images/2016/DSC03115.JPG"
+bannerimage = "/images/2017/working.jpg"
 +++
 
 We will organize the second day of the SoCraTes Days Linz as an "Open Space". This is an "unconference" format designed to maximize learning and sharing among participants. Be prepared to be surprised!

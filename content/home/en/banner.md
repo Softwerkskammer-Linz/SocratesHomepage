@@ -5,7 +5,7 @@ weight = 1
 lang = "en"
 groups = ["home"]
 noreadmore = true
-background_image = "/images/2016/DSC05678.jpg"
+background_image = "/images/2017/Crowd-lighter.jpg"
 +++
 
 <div class="banner">

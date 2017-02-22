@@ -39,7 +39,7 @@ header {
 .banner-image {
 	background: no-repeat center center scroll;
 	background-size: cover;
-	height: 44vh
+	height: 88vh
 }
 
 .header-banner {
@@ -172,8 +172,7 @@ section:nth-child(even) {
 
 
 .section-background-image {
-  padding: 1em 0 0em 0em;
-  background-size: cover;
+  background-size: cover;	
 }
 
 

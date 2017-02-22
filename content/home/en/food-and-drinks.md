@@ -6,14 +6,14 @@ url = "en/food_and_drinks"
 
 lang = "en"
 groups = ["home"]
-bannerimage = "/images/2016/DSC05694.jpg"
+bannerimage = "/images/2017/niu.jpg"
 noreadmore = true
 +++
 
 <div class="row blocks">
 	<div class="four columns block">
 		<h3 class="block-heading"><i class="fa fa-coffee" aria-hidden="true"></i><br/>Drinks</h3>
-		There will be free coffee, soft drinks and water during the "day sessions" on the 15th floor. You will get a drinks voucher for some free drinks you can consume during dinner and the evening sessions. You will have to pay for any drinks you consume after you have spent all your vouchers.
+		There will be free coffee, drinks and water during the "day sessions" on the 15th floor. You will get a drinks voucher for some free drinks you can consume during dinner and the evening sessions. You will have to pay for any drinks you consume after you have spent all your vouchers.
 	</div>
 	<div class="four columns block">
 		<h3 class="block-heading"><i class="fa fa-leaf" aria-hidden="true"></i><br/>Lunch</h3>
