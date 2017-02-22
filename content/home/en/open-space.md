@@ -10,7 +10,7 @@ groups = ["home"]
 bannerimage = "/images/2016/DSC03115.JPG"
 +++
 
-We will organize the SoCraTes Day Linz as an "Open Space". This is an "unconference" format designed to maximize learning and sharing among participants. Be prepared to be surprised!
+We will organize the second day of the SoCraTes Days Linz as an "Open Space". This is an "unconference" format designed to maximize learning and sharing among participants. Be prepared to be surprised!
 
 <a href="https://en.wikipedia.org/wiki/Open_Space_Technology">"Open Space Technology"</a> is a meeting format where every participant takes part in defining the agenda and the schedule. Everyone can propose to give a talk or workshop or to start a discussion group. Or you can ask to learn more about a topic and maybe you'll find someone who will host a session about it together with you. Then we'll all work together to find a time slot and a room for you, and you are ready to go.
 
@@ -54,8 +54,8 @@ At around 17:00 we will head downstairs to the restaurant <a href="http://www.ni
 | Time | Activity |
 |-------|-----------|
 | 08:00 | Get together, morning coffee |
-| 08:30 | Open Space |
+| 08:45 | Planning the Open Space |
+| 09:30 | Open Space |
 | 12:00 | Lunch and parallel lunch-time sessions (*) |
 | 16:00 | Closing the space (a short reflection on the day) |
-| 17:00 | Dinner at restaurant niu |
-| 19:00 | Evening sessions at restaurant niu (open end) |
+| 17:00 | Dinner at restaurant niu (open end) |

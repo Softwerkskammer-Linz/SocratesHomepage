@@ -27,7 +27,7 @@ SoCraTes Days Linz is a two-day conference. On the first day there will be some 
 	</div>
 	<div class="three columns block">
 		<h3 class="block-heading"><i class="fa fa-thumbs-up" aria-hidden="true"></i><br/>Fun</h3>
-		We will spend the whole day and the whole evening together. There will be lots of opportunities to meet, connect, learn, teach, share, and have fun together. We also highly encourage "fun sessions".
+		There will be lots of opportunities to meet, connect, learn, teach, share, and have fun together. We also highly encourage "fun sessions".
 	</div>
 </div>
 
