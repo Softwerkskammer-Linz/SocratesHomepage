@@ -6,7 +6,7 @@ url = "en/getting_there"
 
 lang = "en"
 groups = ["home"]
-bannerimage = "/images/DSC05683.jpg"
+bannerimage = "/images/2016/DSC05683.jpg"
 noreadmore = true
 +++
 

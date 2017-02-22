@@ -5,13 +5,13 @@ weight = 1
 lang = "en"
 groups = ["home"]
 noreadmore = true
-_bannerimage = "/images/DSC05678.jpg"
+background_image = "/images/2016/DSC05678.jpg"
 +++
 
 <div class="banner">
   	<div class="row">
 			<div class="four columns">
-				<img class="logo" src="/images/SoCraTesLinz2016.png" alt="SoCraTes Linz Logo"/>
+				<img class="logo" src="/images/2016/SoCraTesLinz2016.png" alt="SoCraTes Linz Logo"/>
 			</div>
     	<div class="eight columns">
 				<h1>SoCraTes Days Linz</h1>

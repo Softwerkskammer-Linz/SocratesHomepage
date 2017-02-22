@@ -33,6 +33,7 @@ header {
   background-color: rgb(151, 40, 32);
 }
 
+
 .clear { clear: both; }
 
 .banner-image {
@@ -144,6 +145,13 @@ footer {
   color: rgb(157,157,157);
 }
 
+footer a {
+	color: rgb(200,200,200);
+}
+footer a:hover {
+	color: rgb(255, 255, 255);
+}
+
 
 @media (min-width: 400px) {
 	#language-menu, #main-menu {
@@ -163,18 +171,17 @@ section:nth-child(even) {
 }
 
 
+.section-background-image {
+  padding: 1em 0 0em 0em;
+  background-size: cover;
+}
+
+
 /* Bigger than 550 */
 @media (min-width: 750px) {
   section {
     padding: 3em 0 3em 0em;
   }
-
-  section.banner {
-    padding: 1em 0 0em 0em;
-    background-image: url('/images/DSC05678.jpg');
-    background-size: cover;
-  }
-  
 
 	h1 {
 		font-size: 3.5rem;

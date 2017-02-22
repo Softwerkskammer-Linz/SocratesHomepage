@@ -41,7 +41,7 @@ theme = 'galleria'
 # Size of resized image (default: (640, 480))
 img_size = (1600, 1067)
 
-# Should we use openlayers to show a map of the images where possible?
+# Should we use openlayers to show a map of the src="/images/2016/ where possible?
 # This option only has an effect on the galleria theme for the while.
 # show_map = False
 
@@ -53,11 +53,11 @@ img_size = (1600, 1067)
 # - None: don't resize
 # img_processor = 'ResizeToFit'
 
-# Autorotate images
+# Autorotate src="/images/2016/
 # Warning: this setting is not compatible with `copy_exif_data` (see below),
 # because Sigal can't save the modified Orientation tag (currently Pillow can't
 # write EXIF).
-# autorotate_images = True
+# autorotate_src="/images/2016/ = True
 
 # If True, EXIF data from the original image is copied to the resized image
 # copy_exif_data = False
@@ -95,10 +95,10 @@ thumb_size = (280, 210)
 # Keep original image (default: False)
 # keep_orig = True
 
-# Subdirectory for original images
+# Subdirectory for original src="/images/2016/
 # orig_dir = 'original'
 
-# Use symbolic links instead of copying the original images
+# Use symbolic links instead of copying the original src="/images/2016/
 # orig_link = False
 
 # Attribute of Album objects which is used to sort medias (eg 'title'). To sort
@@ -110,7 +110,7 @@ thumb_size = (280, 210)
 
 # Attribute of Media objects which is used to sort medias. 'date' can be used
 # to sort with EXIF dates, and 'meta.key' to sort on a metadata key (which then
-# must exist for all images).
+# must exist for all src="/images/2016/).
 # medias_sort_attr = 'filename'
 
 # Reverse sort for medias
@@ -151,7 +151,7 @@ ignore_files = []
 # Miscellaneous
 # -------------
 
-# Write HTML files. If False, sigal will only process the images.
+# Write HTML files. If False, sigal will only process the src="/images/2016/.
 # write_html = True
 
 # Name of the generated HTML files
@@ -210,7 +210,7 @@ ignore_files = []
 # Add a copyright text on the image (default: '')
 # copyright = "© An example copyright message"
 
-# Adjust the image after resizing it. A default value of 1.0 leaves the images
+# Adjust the image after resizing it. A default value of 1.0 leaves the src="/images/2016/
 # untouched.
 # adjust_options = {'color': 1.0,
 #                   'brightness': 1.0,

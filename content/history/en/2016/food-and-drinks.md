@@ -6,7 +6,7 @@ url = "en/history/2016/food_and_drinks"
 
 lang = "en"
 groups = ["history", "2016"]
-bannerimage = "/images/DSC05694.jpg"
+bannerimage = "/images/2016/DSC05694.jpg"
 noreadmore = true
 +++
 

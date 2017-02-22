@@ -6,7 +6,7 @@ url = "en/history/2016/getting_there"
 
 lang = "en"
 groups = ["history", "2016"]
-bannerimage = "/images/DSC05683.jpg"
+bannerimage = "/images/2016/DSC05683.jpg"
 noreadmore = true
 +++
 

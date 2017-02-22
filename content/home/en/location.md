@@ -7,7 +7,7 @@ anchor = "location"
 
 lang = "en"
 groups = ["home"]
-bannerimage = "/images/DSC05686.jpg"
+bannerimage = "/images/2016/DSC05686.jpg"
 noreadmore = true
 +++
 

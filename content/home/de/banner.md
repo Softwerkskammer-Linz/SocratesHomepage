@@ -15,7 +15,7 @@ noreadmore = true
 				<h2>29. Oktober 2016</h2>
 			</div>
 			<div class="five columns">
-				<img class="logo" src="/images/SoCraTesLinz2016.png" alt="SoCraTes Linz Logo"/>
+				<img class="logo" src="/images/2016/SoCraTesLinz2016.png" alt="SoCraTes Linz Logo"/>
 			</div>
 	</div>
 </div>

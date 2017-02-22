@@ -6,7 +6,7 @@ url = "en/food_and_drinks"
 
 lang = "en"
 groups = ["home"]
-bannerimage = "/images/DSC05694.jpg"
+bannerimage = "/images/2016/DSC05694.jpg"
 noreadmore = true
 +++
 

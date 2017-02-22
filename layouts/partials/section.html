@@ -1,0 +1,24 @@
+	{{ if .Params.background_image}}
+	<section class="section {{ .Params.class  }} section-background-image" style="background-image: url({{ .Params.background_image }})">
+	{{ else }}
+	<section class="section {{ .Params.class  }}">
+	{{ end }}
+	<div class="container">
+		{{ if .Params.anchor }}
+		<h3><a name="{{ .Params.anchor }}" href='{{ .Permalink }}'>{{ .Title }}</a> </h3>
+		{{ else }}
+		<h3><a href='{{ .Permalink }}'>{{ .Title }}</a> </h3>
+		{{ end }}
+		{{ .Summary }}
+		{{ if isset .Params "noreadmore" }}
+		{{ else }}
+		{{ if .Params.readmorelink }}
+		<a href='{{ .Permalink }}'><nobr>{{ .Params.readmorelink }}
+ →</nobr></a>
+		{{ else }}
+		<a href='{{ .Permalink }}'><nobr>{{ ( index $.Site.Data.translations $.Params.lang ).read_more }}
+ →</nobr></a>
+ 		{{ end }}
+ 		{{ end }}
+	</div>
+	</section>
