@@ -1,11 +1,12 @@
 +++
 weight = 50
 title = "Code of Conduct"
-url = "history/2016/en/code-of-conduct"
+url = "en/history/2016/code-of-conduct"
 anchor = "code-of-conduct"
 lang = "en"
-groups = ["2016"]
+groups = ["history", "2016"]
 readmorelink = "Read More: Slightly longer version with all the details you need."
+
 +++
 
 We are dedicated to create a conference where everybody can learn, teach, share, network and have a 

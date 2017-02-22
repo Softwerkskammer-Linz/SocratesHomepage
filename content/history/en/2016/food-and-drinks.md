@@ -2,10 +2,10 @@
 weight = 47
 title = "Food and Drinks"
 
-url = "history/2016/en/food_and_drinks"
+url = "en/history/2016/food_and_drinks"
 
 lang = "en"
-groups = ["2016"]
+groups = ["history", "2016"]
 bannerimage = "/images/DSC05694.jpg"
 noreadmore = true
 +++

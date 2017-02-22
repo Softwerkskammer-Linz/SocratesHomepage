@@ -2,10 +2,10 @@
 weight = 45
 title = "Getting There"
 
-url = "history/2016/en/getting_there"
+url = "en/history/2016/getting_there"
 
 lang = "en"
-groups = ["2016"]
+groups = ["history", "2016"]
 bannerimage = "/images/DSC05683.jpg"
 noreadmore = true
 +++

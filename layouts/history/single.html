@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 {{ if .Params.listing }}
 
-	{{ range .Site.Taxonomies.groups.home.Pages.ByWeight }}
+	{{ range .Site.Taxonomies.groups.history.Pages.ByWeight }}
 	{{ if .Params.bannerimage}}
 	<div class="banner-image" style="background-image: url({{ .Params.bannerimage }})"></div>
 	{{end}}

@@ -1,9 +1,9 @@
 +++
 class = "banner"
-weight = 0
+weight = 1
 
 lang = "en"
-groups = ["2016"]
+groups = ["history", "2016"]
 noreadmore = true
 
 +++

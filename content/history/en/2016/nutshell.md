@@ -2,12 +2,12 @@
 weight = 10
 title = "Socrates in a nutshell"
 
-url = "history/2016/en/nutshell"
+url = "en/history/2016/nutshell"
 anchor = "nutshell"
 
 noreadmore = true
 lang = "en"
-groups = ["2016"]
+groups = ["history", "2016"]
 +++
 
 SoCraTes Day Linz is a one-day open space conference about software craftsmanship and testing. It is entirely created by the participants with a facilitator who will guide through the day.

@@ -1,12 +1,12 @@
 +++
 weight = 30
 title = "Open Space"
-url = "history/2016/en/open-space"
+url = "en/history/2016/open-space"
 anchor = "open-space"
 
 readmorelink = "Read More: Detailed description, session types, what to expect"
 lang = "en"
-groups = ["2016"]
+groups = ["history", "2016"]
 bannerimage = "/images/DSC03115.JPG"
 +++
 

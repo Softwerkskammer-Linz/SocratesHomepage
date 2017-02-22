@@ -2,11 +2,11 @@
 weight = 40
 title = "Location"
 
-url = "history/2016/en/location"
+url = "en/history/2016/location"
 anchor = "location"
 
 lang = "en"
-groups = ["2016"]
+groups = ["history", "2016"]
 bannerimage = "/images/DSC05686.jpg"
 noreadmore = true
 +++

@@ -1,6 +1,6 @@
 +++
 class = "banner"
-weight = 0
+weight = 1
 
 lang = "en"
 groups = ["home"]

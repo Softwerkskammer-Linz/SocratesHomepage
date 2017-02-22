@@ -1,11 +1,11 @@
 +++
 weight = 5
 title = "Main Sponsors"
-url = "history/2016/en/main-sponsors"
+url = "en/history/2016/main-sponsors"
 anchor = "main-sponsors"
 
 lang = "en"
-groups = ["2016"]
+groups = ["history", "2016"]
 noreadmore = true
 +++
 
