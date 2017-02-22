@@ -23,7 +23,7 @@
 		{{ end }}
 
 		{{ range (index .Site.Taxonomies.menu "history").Pages }}
-	    	{{ if eq .Params.anchor $.Params.anchor }}
+	    	{{ if eq .Params.anchor $.Params.anchor }} 
 					<a class="active" href="{{ .Permalink  }}">{{ .LinkTitle }}</a>
 				{{ else }}
 					<a href="{{ .Permalink  }}">{{ .LinkTitle }}</a>
