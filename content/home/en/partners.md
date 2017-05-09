@@ -17,6 +17,11 @@ noreadmore = true
 		</a></div>
 	</div>
 	<div class="four columns block">
+		<div class="block-heading"><a href="https://www.objectbay.com">
+			<img src="/images/2017/Sponsor/objectbay.png" alt="#objectbay Logo" style="max-height: 5em; max-width: 100%;"><br/>
+		</a></div>
+	</div>
+	<div class="four columns block">
 		<div class="block-heading"><a href="http://www.wissensturm.at">
 			<img src="/images/2017/Sponsor/wissensturm-linz.jpg" alt="Wissensturm Logo" style="max-height: 5em; max-width: 100%;"><br/>
 		</a></div>
@@ -30,6 +35,12 @@ noreadmore = true
 		<div class="block-heading"><a href="http://connexxo.com/">
 			<img src="/images/2017/Sponsor/Connexxo-Logo.png" alt="Connexo Logo" style="max-height: 5em; max-width: 100%;"><br/>
 			Connexxo
+		</a></div>
+	</div>
+	<div class="four columns block">
+		<div class="block-heading"><a href="https://smarter-ecommerce.com/">
+			<img src="/images/2017/Sponsor/smec.png" alt="Smarter Ecommerce Logo" style="max-height: 5em; max-width: 100%;"><br/>
+			Smarter Ecommerce
 		</a></div>
 	</div>
 	<div class="four columns block">

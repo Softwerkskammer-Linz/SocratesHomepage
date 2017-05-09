@@ -43,12 +43,12 @@ appropriate, including warning the offender or expulsion from the conference wit
 
 #### Need Help
 
-If you need help, have any further questions or have any other concerns, please contact a member of conference staff immediately. Conference staff
-can be identified as they'll be wearing branded t-shirts.
+If you need help, have any further questions or have any other concerns, please contact a member of conference staff immediately. 
 
 * Contact the conference staff
 * Contact <a href="https://twitter.com/SoCraTesAT">@SoCraTesAT</a> (send a direct message)
 * Call +43-676-53 47 723 (David Tanzer) 
+
 
 #### Credits
 These values are inspired by the following works: 
