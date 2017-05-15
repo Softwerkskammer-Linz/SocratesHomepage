@@ -4,7 +4,7 @@ title = "Open Space"
 url = "en/open-space"
 anchor = "open-space"
 
-readmorelink = "Read More: Detailed description, session types, what to expect"
+readmorelink = "Read more about the schedule for the Open Space on Saturday, the sessions, and what to expect"
 lang = "en"
 groups = ["home"]
 bannerimage = "/images/2017/working.jpg"
@@ -12,7 +12,7 @@ bannerimage = "/images/2017/working.jpg"
 
 We will organize the second day of the SoCraTes Days Linz as an "Open Space". This is an "unconference" format designed to maximize learning and sharing among participants. Be prepared to be surprised!
 
-<a href="https://en.wikipedia.org/wiki/Open_Space_Technology">"Open Space Technology"</a> is a meeting format where every participant takes part in defining the agenda and the schedule. Everyone can propose to give a talk or workshop or to start a discussion group. Or you can ask to learn more about a topic and maybe you'll find someone who will host a session about it together with you. Then we'll all work together to find a time slot and a room for you, and you are ready to go.
+<a href="https://en.wikipedia.org/wiki/Open_Space_Technology">"Open Space Technology"</a> is a meeting format where every participant takes part in defining the agenda and schedule. Everyone can propose a talk or workshop or start a discussion group. Or you can ask to learn more about a topic and maybe you'll find someone who will host a session about it together with you. Then we'll all work together to find a time slot and a room for you, and you are ready to go.
 
 So: You decide, together with your peers, what you can learn on this day. Make the most of it!
 
@@ -20,8 +20,7 @@ So: You decide, together with your peers, what you can learn on this day. Make t
 
 <h3>Basic Structure</h3>
 
-In the morning, we will come together and plan the day. Everyone can propose sessions: Think of something you want to teach or learn, write it on a
-big sticky note, present it briefly to the audience, and find a free time-slot. That's it, now you'll host a session at the conference!
+In the morning, we will come together and plan the day. Everyone can propose sessions: Think of something you want to teach or learn, write it on a big sticky note, present it briefly to the audience, and find a free time-slot. That's it, now you'll host a session at the conference!
 
 Here are some examples of sessions you could propose to the audience:
 
@@ -31,29 +30,30 @@ Here are some examples of sessions you could propose to the audience:
 * I want to learn more about monads. Is there anyone in the audience who can teach me?
 * etc... (Be creative ;) )
 
-We have five rooms for parallel tracks, so you'll probably find a free time slot for your session. If you want to hold a short workshop, you can also take two time slots.
+We have five rooms for parallel tracks, so you'll probably find a free space and time slot for your session. If you want to hold a short workshop, you can also take two time slots.
 
 <h3>Session Types</h3>
 
 We expect to have a variety of different session types:
 
 * Group discussions: You set the topic and invite people to come and discuss.
-* Hands-on coding: You code together with your audience. It would be helpful if you have a small example on github, which people can clone to get started quickly. Or you try <a href="https://en.wikipedia.org/wiki/Mob_programming">Mob Programming</a> on your laptop.
+* Hands-on coding: You code together with your audience. It would be helpful if you have a small example on github which people can clone to get started quickly. Or you try <a href="https://en.wikipedia.org/wiki/Mob_programming">Mob Programming</a> on your laptop.
 * Interactive Talks: You give a talk (with or without slides) and facilitate a discussion.
 * Learning together: When you want to learn about a topic, but don't find an expert who can teach you, spend the time with your audience to learn together.
-* Evening sessions: We will also have sessions in the evening in the restaurant. There will not be a projector, but we will have some flip charts and power outlets for laptops.
+* Evening sessions: We can also have sessions in the evening of the workshop day. There will not be a projector, but we will have some flip charts and power outlets for laptops.
 
 <h3>Schedule</h3>
 
-<a href="http://connexxo.com/">Pierluigi Pugliese</a> will facilitate the open space for us. In the morning at 08:30, we will kick off with a marketplace where you can propose your sessions and where we decide the schedule together.
+<a href="http://connexxo.com/">Pierluigi Pugliese</a> will facilitate the open space for us. In the morning at 08:30, we will kick off with a marketplace where you can propose your sessions and where we decide on the schedule together.
 
-We will have a self-service lunch from around 12:00 to around 13:30, but we will also have some parallel sessions. So you decide when you have lunch and if you want to participate in some sessions during lunch time.
+We will have a self-service lunch from around 12:00 to around 13:30, but we will also have some parallel sessions. So you decide when you have lunch or if you want to participate in sessions during lunch time.
 
-At around 17:00 we will head downstairs to the restaurant <a href="http://www.niu.at/">niu</a>, where we will have dinner and the evening sessions.
+At around 17:00, we will head downstairs to the restaurant <a href="http://www.niu.at/">niu</a>, where we will have our closing dinner.
 
 | Time | Activity |
 |-------|-----------|
 | 08:00 | Get together, morning coffee |
+| 08:30 | Kick-off and introduction |
 | 08:45 | Planning the Open Space |
 | 09:30 | Open Space |
 | 12:00 | Lunch and parallel lunch-time sessions (*) |
