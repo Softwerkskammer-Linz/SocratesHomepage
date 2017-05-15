@@ -10,7 +10,7 @@ lang = "en"
 groups = ["home"]
 +++
 
-SoCraTes Days Linz is a two-day conference. On the first day there will be some workshops and on the second day is a open space conference about software craftsmanship and testing. It is entirely created by the participants with a facilitator who will guide through both days.
+SoCraTes Days Linz 2017 is a two-day conference. On the first day there will be four workshops and the second day is an open space conference about software craftsmanship and testing. It is entirely created by the participants with a facilitator who will guide through both days.
 
 <div class="row blocks">
 	<div class="three columns block">
