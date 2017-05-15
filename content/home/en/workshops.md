@@ -3,10 +3,9 @@ weight = 35
 title = "Workshops"
 url = "en/workshops"
 anchor = "workshops"
-
-noreadmore = true
 lang = "en"
 groups = ["home"]
+readmorelink = "Check out the currently submitted workshops ..."
 _bannerimage = "/images/2016/DSC03115.JPG"
 +++
 
@@ -17,6 +16,7 @@ If your workshop gets accepted, you will have to buy a ticket.
 
 To submit a workshop, please send us your proposal (title, abstract, lecturers) to [info@socrates-conference.at](mailto:info@socrates-conference.at).
 
+<!--more-->
 #### Currently submitted workshops
 
 * "A guided hands-on tour through Machine Learning and Data Science" - by Martin Weber, Bernhard Niedermayer
