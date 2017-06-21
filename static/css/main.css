@@ -33,6 +33,13 @@ header {
   background-color: rgb(151, 40, 32);
 }
 
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
+  border-width: 0;
+  border-top: 1px solid #E1E1E1; }
+
+
 
 .clear { clear: both; }
 
@@ -143,10 +150,12 @@ input[type="button"].button-primary {
 }
 
 .blocks {
-	margin-bottom: 1em;
 }
 
 .block {
+	padding-top: 2em;
+	padding-bottom: 2em;
+	
 	text-align: justify;
 }
 
@@ -197,13 +206,12 @@ section:nth-child(even) {
   background-size: cover;	
 }
 
+section {
+ padding: 3em 0 3em 0em;
+}
 
 /* Bigger than 550 */
 @media (min-width: 750px) {
-  section {
-    padding: 3em 0 3em 0em;
-  }
-
 	h1 {
 		font-size: 3.5rem;
 	}

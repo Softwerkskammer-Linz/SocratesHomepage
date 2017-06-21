@@ -4,7 +4,7 @@ title = "Open Space"
 url = "en/open-space"
 anchor = "open-space"
 
-readmorelink = "Read more about the schedule for the Open Space on Saturday, the sessions, and what to expect"
+readmorelink = "Read more about the Open Space"
 lang = "en"
 groups = ["home"]
 bannerimage = "/images/2017/working.jpg"

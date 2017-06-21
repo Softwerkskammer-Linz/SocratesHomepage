@@ -5,7 +5,7 @@ url = "en/workshops"
 anchor = "workshops"
 lang = "en"
 groups = ["home"]
-readmorelink = "Check out the currently submitted workshops and the schedule for Friday"
+readmorelink = "Check out the Workshops"
 _bannerimage = "/images/2016/DSC03115.JPG"
 +++
 
