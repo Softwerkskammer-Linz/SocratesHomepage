@@ -80,5 +80,11 @@ noreadmore = true
 			Softwerkskammer
 		</a></div>
 	</div>
+	<div class="four columns block">
+		<div class="block-heading"><a href="http://codeweek.eu/">
+			<img src="/images/2017/codeweekeu_logo.png" alt="Europe Code Week Logo" style="max-height: 5em; max-width: 100%;"><br/>
+			Europe Code Week 2017
+		</a></div>
+	</div>
 </div>
 <!--more-->
