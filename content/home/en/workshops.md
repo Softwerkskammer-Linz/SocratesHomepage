@@ -19,7 +19,8 @@ To submit a workshop, please send us your proposal (title, abstract, lecturers) 
 <!--more-->
 <h3>Currently submitted workshops</h3>
 
-* "A guided hands-on tour through Machine Learning and Data Science" (by Martin Weber, Bernhard Niedermayer): Machine Learning and Data Science are gaining more traction in private enterprises. Revenue forecasting and predictive maintenance are the guiding topics of what is called Retail and Industry 4.0. We will start with some very basic examples and guide the participants to state of the art machine learning approaches. The workshop will also contain hands-on excercises for which we will provide an environment and appropriate data sets to allow everyone to participate.
+* **"A guided hands-on tour through Machine Learning and Data Science"** (by Martin Weber, Bernhard Niedermayer): Machine Learning and Data Science are gaining more traction in private enterprises. Revenue forecasting and predictive maintenance are the guiding topics of what is called Retail and Industry 4.0. We will start with some very basic examples and guide the participants to state of the art machine learning approaches. The workshop will also contain hands-on excercises for which we will provide an environment and appropriate data sets to allow everyone to participate.
+* **"Scaling Scrum with Lego"** (by Hermann Lacheiner)
 
 <h3>Schedule</h3>
 
