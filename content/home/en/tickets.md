@@ -9,6 +9,8 @@ groups = ["home"]
 noreadmore = true
 +++
 
+**Currently it is not possible to buy a ticket using a non-Austrian postal address. We are working on a solution. If you want a ticket, please send us an <a href="info@socrates-confernce.at">email</a> so that we can reserve one (or more) for you and also can get back
+to you once we have a solution.**
 
 **Please read our <a href="/en/code-of-conduct/">Code of Conduct</a> before considering buying tickets!**
 
