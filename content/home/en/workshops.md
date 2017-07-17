@@ -1,5 +1,5 @@
 +++
-weight = 35
+weight = 31
 title = "Workshops"
 url = "en/workshops"
 anchor = "workshops"
