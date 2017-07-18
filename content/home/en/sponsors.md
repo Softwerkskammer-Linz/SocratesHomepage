@@ -1,6 +1,6 @@
 +++
 weight = 35
-title = ""
+title = "Sponsors"
 url = "en/sponsors"
 anchor = "sponsors"
 
