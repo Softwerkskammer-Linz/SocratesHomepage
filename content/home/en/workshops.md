@@ -20,7 +20,7 @@ To submit a workshop, please send us your proposal (title, abstract, lecturers) 
 <h3>Currently submitted workshops</h3>
 
 * **"A guided hands-on tour through Machine Learning and Data Science"** (by Martin Weber, Bernhard Niedermayer): Machine Learning and Data Science are gaining more traction in private enterprises. Revenue forecasting and predictive maintenance are the guiding topics of what is called Retail and Industry 4.0. We will start with some very basic examples and guide the participants to state of the art machine learning approaches. The workshop will also contain hands-on excercises for which we will provide an environment and appropriate data sets to allow everyone to participate.
-* **"Scaling Scrum with Lego"** (by Hermann Lacheiner)
+* **"Scaling Scrum with Lego"** (by Hermann Lacheiner, Maria Muthenthaler): Everybody knows Lego, either from his or her childhood or maybe recently from playing with your children. It might sound a little bit strange, but Lego is also appropriate for experimenting agile methodologies like Scrum or even scaling Scrum with several teams. In this workshop we will experiment with scaling Scrum methodologies and working in teams together, just with Lego bricks, Story Map and Post-Its. In this Workshop we have room for experimenting different estimation techniques and how to scale Scrum. This workshop is not for people who want to lay back and just listen. This workshop is for people who want to get active, work together, even fail and learn from it. The more people the more fun we have in the workshop;)
 
 <h3>Schedule</h3>
 
