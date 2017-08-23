@@ -19,6 +19,9 @@ background_image = "/images/2017/Crowd-lighter.jpg"
 				<h3><a href="https://twitter.com/SoCraTesAT"><i class="fa fa-twitter" aria-hidden="true" style="width: 1.2em;"></i> @SoCraTesAT</a></h3>
 				<h3><a href="https://facebook.com/events/1509206379138557"><i class="fa fa-facebook" aria-hidden="true" style="width: 1.2em;"></i> SoCraTes Day Linz</a></h3>
 				<br/>
+				
+				<p>If you are part of a group that is underrepresented in tech, you can get a <strong>FREE</strong> diversity ticket here: <a href="https://diversitytickets.org/events/108">diversitytickets.org/events/108</a> (Not sure what that means? <a href="https://diversitytickets.org/faq#grant_2">Find out here.</a>).</p>
+
 				<a class="button button-primary" href="tickets">Buy Ticket</a>
 			</div>
 	</div>
