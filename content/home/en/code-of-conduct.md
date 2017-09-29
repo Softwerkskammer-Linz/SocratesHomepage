@@ -31,7 +31,7 @@ In this code of conduct, we want to lay out those rules and red lines.
 
 #### CoC Violations
 
-If you think someone has experienced our code of conduct - even if you were not directly involved, like
+If you think someone has violated our code of conduct - even if you were not directly involved, like
 you just overheard a conversation - please:
 
 * Let the person know that what they did is not appropriate and ask them to stop.
@@ -82,11 +82,12 @@ If you need help, have any further questions or have any other concerns, please 
 * Contact the conference staff (phone numbers are on your badge)
 * Contact <a href="mailto:info@socrates-conference.at">info@socrates-conference.at</a>
 * Contact <a href="https://twitter.com/SoCraTesAT">@SoCraTesAT</a> (send a direct message)
-* Call +43-676-53 47 723 (David Tanzer) 
+* Call +43-676-53 47 723 (David Tanzer)
+* Call +43-676-53 47 724 (Rene Pirringer)
 
 
 #### Credits
-These values are inspired by the following works: 
+These values are inspired by the following works:  
 <a href="https://www.socrates-conference.de/values.html">SoCraTes Conference Values</a>  
 <a href="https://wealljs.org/code-of-conduct">WeAllJS Code of Conduct</a>  
 <a href="https://www.djangoproject.com/conduct/">Django Code of Conduct</a>  
