@@ -57,7 +57,7 @@ And so we invite all those who participate in the SoCraTes Day Linz and the comm
 to help us create safe and positive experiences for everyone. With your help, this conference can be a great
 experience for everyone!
 
-* **Treat everyone professionally** Everybody at the conference is a professional in their field. Treat all attendees as equals. Ask before you teach. Do not explain things without beign asked - The person you are talking to right now might know more or different things about the topic than you!
+* **Treat everyone professionally** Everybody at the conference is a professional in their field. Treat all attendees as equals. Ask before you teach. Do not explain things without being asked - The person you are talking to right now might know more or different things about the topic than you!
 * **Be welcoming, friendly, and patient.** Give people the benefit of doubt. Ask questions before jumping to conclusions.
 * **Be respectful.** Not all of us will agree with each other all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack.
 * **Be aware of the effect your words may have on others.** We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment, and other exclusionary behavior aren't acceptable.
