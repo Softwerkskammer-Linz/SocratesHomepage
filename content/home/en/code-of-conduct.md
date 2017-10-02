@@ -69,7 +69,7 @@ experience for everyone!
 Unacceptable behaviour includes, but is not limited to:
 
 * Harassment, and other exclusionary behaviour. Deliberate intimidation and threats.
-* Aggressive or secualized language and content. Unwanted sexual advances.
+* Aggressive or sexualized language and content. Unwanted sexual advances.
 * Insulting or putting down other participants. Personal or political attacks.
 * Publishing or telling others that a participant belongs to a particular identity channel without asking their consent first.
 * Well-actuallies: Telling people what they "actually meant to say".
