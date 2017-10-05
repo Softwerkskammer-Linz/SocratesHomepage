@@ -55,6 +55,11 @@ noreadmore = true
 			</a></div>
 		</div>
 		<div class="four columns block">
+			<div class="block-heading"><a href="https://www.avocodo.com">
+				<img src="/images/2017/Sponsor/Avocodo-Logo.png" alt="Avocodo Logo" style="max-height: 5em; max-width: 100%;"><br/>
+			</a></div>
+		</div>
+		<div class="four columns block">
 			<div class="block-heading"><a href="mailto:info@socrates-conference.at?Subject=SoCraTes%20Day%20Linz%20Sponsoring">
 				<i class="fa fa-question" aria-hidden="true" style="font-size: 5em;"></i><br/>
 				Your Company
