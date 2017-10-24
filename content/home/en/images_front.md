@@ -13,7 +13,7 @@ noreadmore = true
 <div class="row">
 
 <a href="/gallery/images">
-<h3>Images from the event</h3><br/>
+<h3>Photos from the event</h3><br/>
 <div style="text-align: center; padding: 1em">
 <img src="/images/2017/event/SoCrates17-2.jpg" alt="SoCraTes 2017" style="width: 50%"/>
 </div>
