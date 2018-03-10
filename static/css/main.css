@@ -76,6 +76,15 @@ hr {
   height: 44vh;
 }
 
+.tickets-button, .tickets-button:hover, .tickets-button:active, .tickets-button:visited {
+	color: #FFF;
+	background-color: #d74d43;
+	border-color: #d7392e;
+	font-size: 1.5em;
+	font-weight: bold;
+	padding: 0.5em 2em;
+	border-radius: 1em;
+}
 .button.button-primary,
 button.button-primary,
 input[type="submit"].button-primary,

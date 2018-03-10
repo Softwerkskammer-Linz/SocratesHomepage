@@ -3,7 +3,7 @@ class = "banner"
 weight = 1
 
 lang = "en"
-groups = ["home"]
+groups = ["history", "2017"]
 noreadmore = true
 background_image = "/images/2017/Crowd-lighter.jpg"
 +++
@@ -20,7 +20,6 @@ background_image = "/images/2017/Crowd-lighter.jpg"
       <h3><a href="https://facebook.com/events/1509206379138557"><i class="fa fa-facebook" aria-hidden="true" style="width: 1.2em;"></i> SoCraTes Day Linz</a></h3>
       <br/>
 
-	  <p><a class="tickets-button" href="/en/tickets">EARLY BIRD TICKETS AVAILABLE</a></p>
     </div>
   </div>  
 </div>
