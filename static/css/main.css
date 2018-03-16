@@ -4,8 +4,8 @@ body {
 	color: #333;
 	margin: 0em;
 	padding: 0;
-  font-size: 1.5em;
-  font-weight: 400;
+	font-size: 1.5em;
+	font-weight: 400;
 }
 
 
@@ -16,12 +16,12 @@ body {
 
 h1, h2 {
 	font-weight: 400;
-  color: #ED2939;
+	color: #ED2939;
 }
 
 a {
-  text-decoration: none;
-  color: #ED2939;
+	text-decoration: none;
+	color: #ED2939;
 }
 
 a:hover {
@@ -30,14 +30,14 @@ a:hover {
 
 header {
 	height: 25%;
-  background-color: #B21F2B;
+	background-color: #B21F2B;
 }
 
 hr {
-  margin-top: 2rem;
-  margin-bottom: 2.5rem;
-  border-width: 0;
-  border-top: 1px solid #E1E1E1; }
+	margin-top: 2rem;
+	margin-bottom: 2.5rem;
+	border-width: 0;
+	border-top: 1px solid #E1E1E1; }
 
 
 
@@ -56,13 +56,13 @@ hr {
 }
 
 .banner h1 {
-  padding: 1em 0 0 0;
-  color: black;
+	padding: 1em 0 0 0;
+	color: black;
 	text-shadow: 1px 1px 2px white;
 }
 
 .banner h2 {
-  color: black;
+	color: black;
 	text-shadow: 1px 1px 2px white;
 }
 
@@ -72,7 +72,7 @@ hr {
 	text-shadow: 1px 1px 2px white;
 }
 .banner .columns {
-  min-height: 60vh;
+	min-height: 60vh;
 }
 
 .tickets-button, .tickets-button:hover, .tickets-button:active, .tickets-button:visited {
@@ -83,17 +83,17 @@ hr {
 	font-weight: bold;
 	padding: 0.5em 2em;
 	border-radius: 1em;
-  display: inline-block;
-  
+	display: inline-block;
+	
 }
 .button.button-primary,
 button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-  color: #FFF;
-  background-color: #d74d43;
-  border-color: #d7392e }
+	color: #FFF;
+	background-color: #d74d43;
+	border-color: #d7392e }
 
 
 	.button.button-primary:hover,
@@ -106,13 +106,13 @@ input[type="button"].button-primary {
 	input[type="submit"].button-primary:focus,
 	input[type="reset"].button-primary:focus,
 	input[type="button"].button-primary:focus {
-	  color: #FFF;
-	  background-color: #d7392e;
-	  border-color: #d7392e; }
+		color: #FFF;
+		background-color: #d7392e;
+		border-color: #d7392e; }
 
 #language-menu, #main-menu, #title, #subtitle {
 	font-variant: small-caps;
-  font-weight: 500;
+	font-weight: 500;
 }
 
 
@@ -148,7 +148,7 @@ input[type="button"].button-primary {
 	
 	text-decoration: none;
 	font-size: 120%;
-  color: rgb(157,157,157);
+	color: rgb(157,157,157);
 }
 
 #main-menu .active {
@@ -156,7 +156,7 @@ input[type="button"].button-primary {
 }
 
 #main-menu a:hover {
-  color: rgb(200,200,200);
+	color: rgb(200,200,200);
 }
 
 .blocks {
@@ -180,10 +180,10 @@ input[type="button"].button-primary {
 /* Footer */
 
 footer {
-  background-color: rgb(151, 40, 32);
+	background-color: rgb(151, 40, 32);
 	text-align: center;
-  padding: 50px 0;
-  color: rgb(157,157,157);
+	padding: 50px 0;
+	color: rgb(157,157,157);
 }
 
 footer a {
@@ -191,6 +191,20 @@ footer a {
 }
 footer a:hover {
 	color: rgb(255, 255, 255);
+}
+
+
+.video {
+	position: relative;
+	padding-bottom: 60%;
+	height: 0;
+}
+.video iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
 
 
@@ -208,17 +222,18 @@ footer a:hover {
 
 
 section:nth-child(even) {
-  background-color: #eee;  
+	background-color: #eee;	
 }
 
 
 .section-background-image {
-  background-size: cover;	
+	background-size: cover;	
 }
 
 section {
  padding: 3em 0 3em 0em;
 }
+
 
 /* Bigger than 550 */
 @media (min-width: 750px) {

@@ -13,7 +13,7 @@ noreadmore = true
 
 <a href="/gallery/images">
 <h3>Some impressions from SoCraTes Linz 2017</h3><br/>
-<div style="text-align: center; padding: 1em">
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VzCRLoa0cc" frameborder="0" allowfullscreen></iframe>
 </div>
 </a>
