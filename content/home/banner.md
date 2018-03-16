@@ -10,7 +10,7 @@ background_image = "/images/2017/Crowd-lighter.jpg"
 <div class="banner">
   <div class="row">
     <div class="four columns">
-      <img class="logo" src="/images/2016/SoCraTesLinz2016.png" alt="SoCraTes Linz Logo"/>
+      <img class="logo" src="/images/2018/SoCraTes_Linz.svg" alt="SoCraTes Linz Logo"/>
     </div>
     <div class="eight columns">
       <h1>SoCraTes Days Linz</h1>

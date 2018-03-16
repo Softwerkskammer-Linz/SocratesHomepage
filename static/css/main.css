@@ -16,21 +16,21 @@ body {
 
 h1, h2 {
 	font-weight: 400;
-  color: rgb(215,57,46);
+  color: #ED2939;
 }
 
 a {
   text-decoration: none;
-  color: rgb(151, 40, 32);
+  color: #ED2939;
 }
 
 a:hover {
-  color: rgb(215,57,46);
+ color: #B21F2B;
 }
 
 header {
 	height: 25%;
-  background-color: rgb(151, 40, 32);
+  background-color: #B21F2B;
 }
 
 hr {
@@ -46,7 +46,6 @@ hr {
 .banner-image {
 	background: no-repeat center center scroll;
 	background-size: cover;
-	height: 88vh
 }
 
 .header-banner {
@@ -73,17 +72,19 @@ hr {
 	text-shadow: 1px 1px 2px white;
 }
 .banner .columns {
-  height: 44vh;
+  min-height: 60vh;
 }
 
 .tickets-button, .tickets-button:hover, .tickets-button:active, .tickets-button:visited {
 	color: #FFF;
-	background-color: #d74d43;
-	border-color: #d7392e;
+	background-color: #ED2939;
+	border-color: #ED2939;
 	font-size: 1.5em;
 	font-weight: bold;
 	padding: 0.5em 2em;
 	border-radius: 1em;
+  display: inline-block;
+  
 }
 .button.button-primary,
 button.button-primary,
