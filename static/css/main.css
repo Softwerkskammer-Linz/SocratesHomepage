@@ -14,14 +14,23 @@ body {
 }
 
 
-h1, h2 {
-	font-weight: 400;
-	color: #ED2939;
+h1, h2, h3 {
+	font-weight: 600;
+	color: #D62533;
+}
+
+h3 {
+}
+
+h4 {
+	font-size: 2.5rem;
+	padding: 0;
+	margin: 0;
 }
 
 a {
 	text-decoration: none;
-	color: #ED2939;
+	color: #D62533;
 }
 
 a:hover {
@@ -30,7 +39,7 @@ a:hover {
 
 header {
 	height: 25%;
-	background-color: #B21F2B;
+	background-color: #D62533;
 }
 
 hr {
@@ -55,37 +64,44 @@ hr {
 	max-width: 100%;
 }
 
+.banner {
+	padding: 4em 0;
+}
+
 .banner h1 {
-	padding: 1em 0 0 0;
-	color: black;
-	text-shadow: 1px 1px 2px white;
+	padding: 0;
+	color: white;
+	text-shadow: 1px 1px 2px black;
+	font-variant: small-caps;
+	font-weight: 700;
 }
 
 .banner h2 {
-	color: black;
-	text-shadow: 1px 1px 2px white;
+	color: white;
+	text-shadow: 1px 1px 2px black;
+	padding: 0 0 0.5em 0;
 }
 
 .banner h3 {
-	font-size: 150%;
+	font-weight: 400;
 	margin: 0;
 	text-shadow: 1px 1px 2px white;
 }
 .banner .columns {
-	min-height: 60vh;
+	min-height: 45vh;
 }
 
 .tickets-button, .tickets-button:hover, .tickets-button:active, .tickets-button:visited {
 	color: #FFF;
-	background-color: #ED2939;
-	border-color: #ED2939;
-	font-size: 1.5em;
-	font-weight: bold;
-	padding: 0.5em 2em;
-	border-radius: 1em;
+	background-color: #D62533;
+	border-color: #D62533;
+	font-size: 1.2em;
+	font-weight: 500;
+	padding: 0.7em 2em;
+	border-radius: 1.5em;
 	display: inline-block;
-	
 }
+
 .button.button-primary,
 button.button-primary,
 input[type="submit"].button-primary,
@@ -117,22 +133,6 @@ input[type="button"].button-primary {
 
 
 
-/* Language Menu */
-
-#language-menu { 
-	float: right; 
-	margin-right: 1em;
-}
-#language-menu a {
-	float: left;
-	text-decoration: none;
-	color: rgb(157,157,157);
-	font-size: 100%;
-	padding: 1em 0.2em;
-}
-#language-menu a:hover { 
-	color: rgb(200,200,200);
-}
 
 /* Main Menu */
 
@@ -148,7 +148,7 @@ input[type="button"].button-primary {
 	
 	text-decoration: none;
 	font-size: 120%;
-	color: rgb(157,157,157);
+	color: white;
 }
 
 #main-menu .active {
@@ -171,6 +171,7 @@ input[type="button"].button-primary {
 
 .block-heading {
 	text-align: center;
+	color: #333;
 }
 
 .block-heading i {
@@ -180,10 +181,10 @@ input[type="button"].button-primary {
 /* Footer */
 
 footer {
-	background-color: rgb(151, 40, 32);
+	background-color: #444	;
 	text-align: center;
-	padding: 50px 0;
-	color: rgb(157,157,157);
+	padding: 70px 0;
+	color: white;
 }
 
 footer a {
@@ -208,20 +209,10 @@ footer a:hover {
 }
 
 
-@media (min-width: 400px) {
-	#language-menu, #main-menu {
-		display: block;
-	}
-	
-	#main-menu a {
-		padding: 1.2em 1em 1.2em 0em;
-		font-size: 1em;
-	}
-}
 
 
 
-section:nth-child(even) {
+section:nth-child(odd) {
 	background-color: #eee;	
 }
 
@@ -234,9 +225,27 @@ section {
  padding: 3em 0 3em 0em;
 }
 
+@media (min-width: 400px) {
+	h1 {
+		font-size: 3.5rem;
+	}
+	h2 {
+		font-size: 2.5rem;
+	}
+	
+	#language-menu, #main-menu {
+		display: block;
+	}
+	
+	#main-menu a {
+		padding: 1.2em 1em 1.2em 0em;
+		font-size: 1em;
+	}
+}
+
 
 /* Bigger than 550 */
-@media (min-width: 750px) {
+@media (min-width: 650px) {
 	h1 {
 		font-size: 3.5rem;
 	}
@@ -245,19 +254,6 @@ section {
 	}
 }
 
-@media (min-width: 750px) {
-	h1 {
-		font-size: 4rem;
-	}
-	h2 {
-		font-size: 3rem;
-	}
-	#main-menu a {
-		padding: 0.7em 0.9em 0.7em 0em;
-		font-size: 0.9em;
-	}
-	
-}
 
 @media (min-width: 1000px) { 
 	
@@ -265,8 +261,12 @@ section {
 		font-size: 5.5rem;
 	}
 	h2 {
-		font-size: 4.5rem;
+		font-size: 4rem;
 	}
+	h3 {
+		font-size: 3.5rem;
+	}
+
 	#main-menu a {
 		font-size: 1.1em;
 	}
