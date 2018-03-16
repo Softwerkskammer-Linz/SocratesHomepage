@@ -1,9 +1,8 @@
 +++
 weight = 50
 title = "Code of Conduct"
-url = "en/code-of-conduct"
+url = "code-of-conduct"
 anchor = "code-of-conduct"
-lang = "en"
 groups = ["home"]
 readmorelink = "Read the more detailed long version"
 +++

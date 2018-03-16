@@ -1,12 +1,11 @@
 +++
 title = "Home"
 linktitle = "Home"
-url = "/en"
+url = "/"
 
 listing = true
-lang = "en"
-menu = ["en"]
 menu_weight = 10
+menu = ["en"]
 
 +++
 

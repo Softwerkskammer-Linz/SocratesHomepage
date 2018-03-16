@@ -2,7 +2,6 @@
 class = "banner"
 weight = 1
 
-lang = "en"
 groups = ["home"]
 noreadmore = true
 background_image = "/images/2017/Crowd-lighter.jpg"

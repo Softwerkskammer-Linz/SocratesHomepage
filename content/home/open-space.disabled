@@ -1,11 +1,10 @@
 +++
 weight = 30
 title = "Open Space"
-url = "en/open-space"
+url = "open-space"
 anchor = "open-space"
 
 readmorelink = "Read more about the Open Space"
-lang = "en"
 groups = ["home"]
 bannerimage = "/images/2017/working.jpg"
 +++

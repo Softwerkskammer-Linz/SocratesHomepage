@@ -1,9 +1,8 @@
 +++
 weight = 31
 title = "Workshops"
-url = "en/workshops"
+url = "workshops"
 anchor = "workshops"
-lang = "en"
 groups = ["home"]
 readmorelink = "Check out the Workshops"
 _bannerimage = "/images/2016/DSC03115.JPG"

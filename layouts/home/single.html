@@ -5,11 +5,9 @@
 	{{ if .Params.bannerimage}}
 	<div class="banner-image" style="background-image: url({{ .Params.bannerimage }})"></div>
 	{{end}}
-	{{ if eq .Params.lang $.Params.lang }}
 
 	{{ partial "section.html" . }}
 
-	{{ end }}
 	{{ end }}
 {{ else }}
 	<div class="container">

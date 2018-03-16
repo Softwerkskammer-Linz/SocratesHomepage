@@ -1,10 +1,9 @@
 +++
 weight = 60
 title = ""
-url = "en/partners"
+url = "partners"
 anchor = "partners"
 
-lang = "en"
 groups = ["home"]
 noreadmore = true
 +++

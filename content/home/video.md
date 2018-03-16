@@ -1,10 +1,9 @@
 +++
 weight = 3
 title = ""
-url = "en/video"
+url = "video"
 anchor = ""
 
-lang = "en"
 groups = ["home"]
 noreadmore = true
 +++

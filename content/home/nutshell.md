@@ -2,11 +2,10 @@
 weight = 10
 title = "Socrates in a nutshell"
 
-url = "en/nutshell"
+url = "nutshell"
 anchor = "nutshell"
 
 noreadmore = true
-lang = "en"
 groups = ["home"]
 +++
 

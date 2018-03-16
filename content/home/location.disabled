@@ -2,10 +2,9 @@
 weight = 40
 title = "Location"
 
-url = "en/location"
+url = "location"
 anchor = "location"
 
-lang = "en"
 groups = ["home"]
 bannerimage = "/images/2016/DSC05686.jpg"
 noreadmore = true

@@ -1,10 +1,9 @@
 +++
 weight = 5
 title = ""
-url = "en/main-sponsors"
+url = "main-sponsors"
 anchor = "main-sponsors"
 
-lang = "en"
 groups = ["home"]
 noreadmore = true
 +++

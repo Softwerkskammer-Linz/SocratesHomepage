@@ -1,10 +1,9 @@
 +++
 weight = 3
 title = ""
-url = "en/images_front"
+url = "images_front"
 anchor = ""
 
-lang = "en"
 groups = ["home"]
 noreadmore = true
 +++

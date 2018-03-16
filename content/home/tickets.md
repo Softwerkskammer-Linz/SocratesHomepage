@@ -1,10 +1,9 @@
 +++
 weight = 20
 title = "Tickets"
-url = "en/tickets"
+url = "tickets"
 anchor = "tickets"
 
-lang = "en"
 groups = ["home"]
 noreadmore = true
 +++
