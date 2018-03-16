@@ -174,6 +174,11 @@ input[type="button"].button-primary {
 	color: #333;
 }
 
+.block-heading a {
+	color: #333;
+}
+
+
 .block-heading i {
 	font-size: 150%;
 }
