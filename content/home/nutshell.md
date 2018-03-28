@@ -9,7 +9,7 @@ noreadmore = true
 groups = ["home"]
 +++
 
-SoCraTes Days Linz 2018 is a two-day conference. On both days we will have an open space conference about software crafts and testing. On Friday, our first day, we will start in the early afternoon and continue late into the night. On saturday, we will start in the morning and end the open space at 5 p.m. Afterwards, we will have dinner and evening sessions.
+SoCraTes Days Linz 2018 is a two-day conference. On both days we will have an open space conference about software crafting and testing. On Friday, our first day, we will start in the early afternoon and continue late into the night. On saturday, we will start in the morning and end the open space at 5 p.m. Afterwards, we will have dinner and evening sessions.
 
 We will also prepare rooms where you can host two-hour or four-hour workshops. We will decide on the workshops just as we decide on the sessions: During the "market place", when we begin the day.
 
