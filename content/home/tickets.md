@@ -2,7 +2,7 @@
 weight = 20
 title = "Tickets"
 url = "tickets"
-anchor = "tickets"
+linkTitle = "tickets"
 
 groups = ["home"]
 noreadmore = true

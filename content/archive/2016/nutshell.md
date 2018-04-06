@@ -2,18 +2,14 @@
 weight = 10
 title = "Socrates in a nutshell"
 
-url = "nutshell"
-linkTitle = "Socrates in a nutshell"
+url = "/archive/2016/nutshell"
+anchor = "nutshell"
 
 noreadmore = true
-groups = ["home"]
+groups = ["archive", "2016"]
 +++
 
-SoCraTes Days Linz 2018 is a two-day conference. On both days we will have an open space conference about software crafting and testing. On Friday, our first day, we will start in the early afternoon and continue late into the night. On saturday, we will start in the morning and end the open space at 5 p.m. Afterwards, we will have dinner and evening sessions.
-
-We will also prepare rooms where you can host two-hour or four-hour workshops. We will decide on the workshops just as we decide on the sessions: During the "market place", when we begin the day.
-
-The open space conference is entirely created by the participants with a facilitator who will guide through both days.
+SoCraTes Day Linz is a one-day open space conference about software craftsmanship and testing. It is entirely created by the participants with a facilitator who will guide through the day.
 
 <div class="row blocks">
 	<div class="three columns block">
@@ -26,11 +22,11 @@ The open space conference is entirely created by the participants with a facilit
 	</div>
 	<div class="three columns block">
 		<h3 class="block-heading"><i class="fa fa-comment" aria-hidden="true"></i><br/>Action</h3>
-		SoCraTes Days Linz is a conference that is entirely created by its participants. We want hands-on coding sessions, sessions focused on discussion, interactive talks, and more.
+		SoCraTes Day Linz is a conference that is entirely created by its participants. We want hands-on coding sessions, sessions focused on discussion, interactive talks, and more.
 	</div>
 	<div class="three columns block">
 		<h3 class="block-heading"><i class="fa fa-thumbs-up" aria-hidden="true"></i><br/>Fun</h3>
-		There will be lots of opportunities to meet, connect, learn, teach, share, and have fun together. We also highly encourage "fun sessions".
+		We will spend the whole day and the whole evening together. There will be lots of opportunities to meet, connect, learn, teach, share, and have fun together. We also highly encourage "fun sessions".
 	</div>
 </div>
 

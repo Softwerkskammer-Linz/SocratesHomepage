@@ -1,11 +1,9 @@
 +++
 weight = 50
-
 title = "Code of Conduct"
-url = "code-of-conduct"
-linkTitle = "Code of Conduct"
-
-groups = ["home"]
+url = "/archive/2017/code-of-conduct"
+anchor = "code-of-conduct"
+groups = ["2017"]
 readmorelink = "Read the more detailed long version"
 +++
 

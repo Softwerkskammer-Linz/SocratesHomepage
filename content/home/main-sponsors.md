@@ -2,7 +2,7 @@
 weight = 5
 title = ""
 url = "main-sponsors"
-anchor = "main-sponsors"
+linkTitle = "Sponsors"
 
 groups = ["home"]
 noreadmore = true

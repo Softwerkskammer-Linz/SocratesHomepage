@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+  {{ range .Pages.ByWeight }}
+		{{ if .Params.bannerimage}}
+			<div class="banner-image" style="background-image: url({{ .Params.bannerimage }})"></div>
+			{{end}}
+		{{ partial "section.html" . }}
+	{{end}}
+
+
+	
+{{ partial "footer.html" . }}

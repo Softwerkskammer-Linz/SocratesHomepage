@@ -1,8 +1,25 @@
 <div class="container">
   <nav id="main-menu">
-  	{{ range (index .Site.Taxonomies.menu).Pages }}
-  	<a href="{{ .Permalink  }}">{{ .LinkTitle }}</a>
-  	{{ end }}
+
+		{{ range $.Site.Taxonomies.groups.home.Pages.ByWeight }}
+    
+			{{ if .Params.linkTitle }}
+				{{ if eq .Params.url $.Params.url }}
+					<a class="active" href="{{ .Permalink  }}">{{ .LinkTitle }}</a>
+				{{ else }}
+					<a href="{{ .Permalink  }}">{{ .LinkTitle }}</a>
+				{{ end }}
+			{{ end }}
+		{{ end }}
+
+		{{ range (index .Site.Taxonomies.menu "history").Pages }}
+	    	{{ if eq .Params.anchor $.Params.anchor }} 
+					<a class="active" href="{{ .Permalink  }}">{{ .LinkTitle }}</a>
+				{{ else }}
+					<a href="{{ .Permalink  }}">{{ .LinkTitle }}</a>
+				{{ end }}
+		{{ end }}
+
   	<div class="clear"></div>
   </nav>
 </div>

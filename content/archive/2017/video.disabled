@@ -1,0 +1,23 @@
++++
+weight = 3
+title = ""
+url = "/archive/2017/video"
+anchor = ""
+
+groups = ["archive", "2017"]
+noreadmore = true
++++
+
+
+<div class="row">
+
+<a href="/gallery/images">
+<h3>Some impressions from SoCraTes Linz 2017</h3><br/>
+<div style="text-align: center; padding: 1em">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-VzCRLoa0cc" frameborder="0" allowfullscreen></iframe>
+</div>
+</a>
+
+</div>
+
+<!--more-->

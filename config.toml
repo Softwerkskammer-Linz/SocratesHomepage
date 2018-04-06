@@ -1,5 +1,6 @@
-baseurl = "http://socrates-conference.at"
+baseurl = "https://socrates-conference.at"
 
 [taxonomies]
 group = "groups"
 menu = "menu"
+

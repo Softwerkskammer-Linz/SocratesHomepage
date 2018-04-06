@@ -1,23 +1,10 @@
 {{ partial "header.html" . }}
-{{ if .Params.listing }}
-
-	{{ range .Site.Taxonomies.groups.home.Pages.ByWeight }}
-	{{ if .Params.bannerimage}}
-	<div class="banner-image" style="background-image: url({{ .Params.bannerimage }})"></div>
-	{{end}}
-
-	{{ partial "section.html" . }}
-
-	{{ end }}
-{{ else }}
-	<div class="container">
-    <section>
-      <h2>{{ .Title }} </h2>
-      {{ .Content }}
-    </section>
-	</div>
-{{ end }}
-
+<div class="container">
+   <section>
+     <h2>{{ .Title }} </h2>
+     {{ .Content }}
+   </section>
+</div>
 
 {{ partial "footer.html" . }}
 

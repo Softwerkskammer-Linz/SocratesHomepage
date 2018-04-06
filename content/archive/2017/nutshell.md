@@ -2,18 +2,14 @@
 weight = 10
 title = "Socrates in a nutshell"
 
-url = "nutshell"
-linkTitle = "Socrates in a nutshell"
+url = "/archive/2017/nutshell"
+anchor = "nutshell"
 
 noreadmore = true
-groups = ["home"]
+groups = ["archive", "2017"]
 +++
 
-SoCraTes Days Linz 2018 is a two-day conference. On both days we will have an open space conference about software crafting and testing. On Friday, our first day, we will start in the early afternoon and continue late into the night. On saturday, we will start in the morning and end the open space at 5 p.m. Afterwards, we will have dinner and evening sessions.
-
-We will also prepare rooms where you can host two-hour or four-hour workshops. We will decide on the workshops just as we decide on the sessions: During the "market place", when we begin the day.
-
-The open space conference is entirely created by the participants with a facilitator who will guide through both days.
+SoCraTes Days Linz 2017 is a two-day conference. On the first day there will be four workshops and the second day is an open space conference about software craftsmanship and testing. It is entirely created by the participants with a facilitator who will guide through both days.
 
 <div class="row blocks">
 	<div class="three columns block">

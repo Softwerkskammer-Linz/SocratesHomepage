@@ -55,6 +55,7 @@ hr {
 .banner-image {
 	background: no-repeat center center scroll;
 	background-size: cover;
+  height: 600px;
 }
 
 .header-banner {
@@ -152,7 +153,7 @@ input[type="button"].button-primary {
 }
 
 #main-menu .active {
-	color: white;
+	color: #333;
 }
 
 #main-menu a:hover {
