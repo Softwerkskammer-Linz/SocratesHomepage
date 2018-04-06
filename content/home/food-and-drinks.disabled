@@ -5,10 +5,10 @@ title = "Food and Drinks"
 url = "food_and_drinks"
 
 groups = ["home"]
-bannerimage = "/images/2017/niu.jpg"
+bannerimage = "images/2017/event/Socrates17-Sa-072.jpg"
 noreadmore = true
 +++
-
+<!--
 <div class="row blocks">
 	<div class="four columns block">
 		<h3 class="block-heading"><i class="fa fa-coffee" aria-hidden="true"></i><br/>Drinks</h3>
@@ -23,5 +23,5 @@ noreadmore = true
 		In the evening, we will have dinner at the restaurant <a href="http://www.niu.at/">niu</a>. Dinner and some drinks will be included in the ticket price. You will receive vouchers which you can spend at the restaurant. After you spent all your vouchers, you'll have to pay for any further food and drinks.
 	</div>
 </div>
-
+-->
 <!--more-->

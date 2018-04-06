@@ -7,6 +7,8 @@ linkTitle = "Socrates in a nutshell"
 
 noreadmore = true
 groups = ["home"]
+
+bannerimage = "images/2017/event/Socrates17-Sa-023.jpg"
 +++
 
 SoCraTes Days Linz 2018 is a two-day conference. On both days we will have an open space conference about software crafting and testing. On Friday, our first day, we will start in the early afternoon and continue late into the night. On saturday, we will start in the morning and end the open space at 5 p.m. Afterwards, we will have dinner and evening sessions.

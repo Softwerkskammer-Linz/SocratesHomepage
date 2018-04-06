@@ -228,7 +228,7 @@ section:nth-child(even) {
 }
 
 section {
- padding: 3em 0 3em 0em;
+ padding: 5em 0 5em 0em;
 }
 
 @media (min-width: 400px) {

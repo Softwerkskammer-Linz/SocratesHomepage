@@ -5,6 +5,8 @@ title = "Code of Conduct"
 url = "code-of-conduct"
 linkTitle = "Code of Conduct"
 
+bannerimage = "/images/2017/event/Socrates17-Fr-039.jpg"
+
 groups = ["home"]
 readmorelink = "Read the more detailed long version"
 +++
