@@ -2,7 +2,6 @@
 weight = 5
 title = ""
 url = "main-sponsors"
-linkTitle = "Sponsors"
 
 groups = ["home"]
 noreadmore = true
