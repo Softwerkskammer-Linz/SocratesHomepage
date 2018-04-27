@@ -214,8 +214,29 @@ footer a:hover {
 	height: 100%;
 }
 
+.quote {
+  text-align: center;
+}
 
+.quote .quotation {
+  margin-top: 1em;
+  font-style: italic;
+}
 
+.quote .author {
+  margin-top: 0.5em;
+}
+
+.quote .title {
+  font-size: 90%;
+  color: #aaa;
+}
+
+.quote .picture img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
 
 
 section:nth-child(even) {
