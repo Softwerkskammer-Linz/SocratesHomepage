@@ -31,7 +31,7 @@ noreadmore = true
 
 <div class="row blocks">
   <div class="four columns block">
-		<div class="block-heading"><a href="https://hcsolutions.at">
+		<div class="block-heading"><a href="https://www.hcsolutions.at">
 			<img src="/images/2018/Sponsor/hcsolutions-logo.png" alt="HC Solutions Logo" style="max-height: 5em; max-width: 100%;"><br/>
 		</a></div>
 	</div>
