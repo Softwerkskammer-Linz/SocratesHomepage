@@ -15,7 +15,8 @@ background_image = "/images/2018/Crowd-Darker.jpg"
     <div class="eight columns" style="text-align: center">
       <h1>SoCraTes Days Linz</h1>
       <h2>October 12-13, 2018</h2>
-		  <p><a class="tickets-button" href="/tickets">TICKETS AVAILABLE</a></p>
+			<h2 style="color:#D62533;">SOLD OUT!</h2>
+		  <p><a class="tickets-button" href="/tickets">Join Waitlist</a></p>
 			
 			
       <h4><a href="https://twitter.com/SoCraTesAT"><i class="fa fa-twitter" aria-hidden="true" style="width: 1.2em;"></i> @SoCraTesAT</a></h4>
