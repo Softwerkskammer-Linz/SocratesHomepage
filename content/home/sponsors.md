@@ -47,6 +47,17 @@ noreadmore = true
 	</div>
 </div>
 <div class="row blocks">
+  <div class="four columns block">
+	</div>
+	<div class="four columns block">
+		<div class="block-heading"><a href="https://siemens.com">
+			<img src="/images/2018/Sponsor/Siemens.svg" alt="Siemens" style="max-height: 7em; max-width: 100%;"><br/>
+		</a></div>
+	</div>
+  <div class="four columns block">
+	</div>
+</div>
+<div class="row blocks">
    <div class="four columns block">
 		<div class="block-heading"><a href="https://www.software-quality-lab.com/">
 			<img src="/images/2018/Sponsor/sqlab-logo.png" alt="Software Quality Lab Logo" style="max-height: 5em; max-width: 100%;"><br/>
