@@ -50,7 +50,7 @@ noreadmore = true
   <div class="four columns block">
 	</div>
 	<div class="four columns block">
-		<div class="block-heading"><a href="https://siemens.com">
+		<div class="block-heading"><a href="https://siemens.mindsphere.io/">
 			<img src="/images/2018/Sponsor/Siemens.svg" alt="Siemens" style="max-height: 7em; max-width: 100%;"><br/>
 		</a></div>
 	</div>
