@@ -12,7 +12,7 @@ noreadmore = true
 <div class="row blocks" style="padding: 2em 0;">
 	<div class="four columns block">
 		<div class="block-heading"><a href="http://www.wissensturm.at">
-			<img src="/images/2017/Sponsor/wissensturm-linz.jpg" alt="Wissensturm Logo" style="max-height: 5em; max-width: 100%;"><br/>
+			<img src="/images/2018/Sponsor/wissensturm-linz.jpg" alt="Wissensturm Logo" style="max-height: 5em; max-width: 100%;"><br/>
 		</a></div>
 	</div>
 	<div class="four columns block">
@@ -51,7 +51,7 @@ noreadmore = true
 	</div>
 	<div class="four columns block">
 		<div class="block-heading"><a href="https://siemens.mindsphere.io/">
-			<img src="/images/2018/Sponsor/Siemens.svg" alt="Siemens" style="max-height: 7em; max-width: 100%;"><br/>
+			<img src="/images/2018/Sponsor/Siemens.svg" alt="Siemens Logo" style="max-height: 7em; max-width: 100%;"><br/>
 		</a></div>
 	</div>
   <div class="four columns block">
@@ -65,12 +65,12 @@ noreadmore = true
 	</div>
 	<div class="four columns block">
 		<div class="block-heading"><a href="https://smarter-ecommerce.com">
-			<img src="/images/2018/Sponsor/smec.png" alt="Smater Ecommerce" style="max-height: 5em; max-width: 100%;"><br/>
+			<img src="/images/2018/Sponsor/smec.png" alt="Smarter Ecommerce Logo" style="max-height: 5em; max-width: 100%;"><br/>
 		</a></div>
 	</div>
 	<div class="four columns block">
 		<div class="block-heading"><a href="https://avocodo.com">
-			<img src="/images/2018/Sponsor/Avocodo-Logo.png" alt="Avocodo" style="max-height: 5em; max-width: 100%;"><br/>
+			<img src="/images/2018/Sponsor/Avocodo-Logo.png" alt="Avocodo Logo" style="max-height: 5em; max-width: 100%;"><br/>
 		</a></div>
 	</div>
 </div>
