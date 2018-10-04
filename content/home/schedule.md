@@ -38,8 +38,7 @@ Saturday, 13. Oct 2018 - Begin 8:00 / End 18:00
 	</div>
 	<div class="row bl br bt">
 	  <div class="one column">16:00</div>
-	  <div class="eight columns bl-not-mobile">&nbsp;</div>
-	  <div class="three columns bl-not-mobile center">Dinner Buffet<br/><span class="room">OG 15</span></div>
+	  <div class="eleven columns bl-not-mobile"></div>
 	</div>
 	<div class="row bl br bt">
 	  <div class="one column">17:00</div>
@@ -53,14 +52,15 @@ Saturday, 13. Oct 2018 - Begin 8:00 / End 18:00
 	</div>
 	<div class="row bl br bt">
 	  <div class="one column">19:00</div>
-	  <div class="eleven columns bl-not-mobile"></div>
+	  <div class="eight columns bl-not-mobile">&nbsp;</div>
+	  <div class="three columns bl-not-mobile center">Dinner Buffet<br/><span class="room">OG 15</span></div>
 	</div>
 	<div class="row bl br bt">
 	  <div class="one column">20:00</div>
 	  <div class="eleven columns bl-not-mobile">Evening News - <span class="room">15.04</span></div>
 	</div>
 	<div class="row bl br bt bb">
-	  <div class="one column">20:00</div>
+	  <div class="one column">21:00</div>
 	  <div class="eleven columns bl-not-mobile">Drinks and Fun at NIU - <span class="room">Ground Floor</span></div>
 	</div>
 </div>
