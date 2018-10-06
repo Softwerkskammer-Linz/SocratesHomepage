@@ -47,14 +47,17 @@ noreadmore = true
 	</div>
 </div>
 <div class="row blocks">
-  <div class="four columns block">
-	</div>
 	<div class="four columns block">
 		<div class="block-heading"><a href="https://siemens.mindsphere.io/">
 			<img src="/images/2018/Sponsor/Siemens.svg" alt="Siemens Logo" style="max-height: 7em; max-width: 100%;"><br/>
 		</a></div>
 	</div>
   <div class="four columns block">
+	</div>
+	<div class="four columns block">
+		<div class="block-heading"><a href="https://akarion.com">
+			<img src="/images/2018/Sponsor/akarion_logo_tagline_vector.svg" alt="Akarion Logo" style="max-height: 7em; max-width: 100%;"><br/>
+		</a></div>
 	</div>
 </div>
 <div class="row blocks">
