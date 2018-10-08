@@ -21,7 +21,7 @@ noreadmore = true
 		</a></div>
 	</div>
 	<div class="four columns block">
-		<div class="block-heading"><a href="https://objectbay.com">
+		<div class="block-heading"><a href="https://www.objectbay.com">
 			<img src="/images/2018/Sponsor/objectbay.png" alt="Objectbay Logo" style="max-height: 5em; max-width: 100%;"><br/>
 		</a></div>
 	</div>
