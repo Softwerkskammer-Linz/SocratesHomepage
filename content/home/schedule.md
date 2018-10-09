@@ -8,103 +8,73 @@ groups = ["home"]
 noreadmore = true
 +++
 
-
-<h4>Friday, 12. Oct 2018</h4>
-<p>Begin 13:00 / End 22:00</p>
-
-<div class="schedule">
-	<div class="row bl br bt">
-	  <div class="one column">13:00</div>
-	  <div class="eleven columns bl-not-mobile">Doors Opening - <span class="room">OG 15</span></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">14:00</div>
-	  <div class="eleven columns bl-not-mobile">Open the Space - <span class="room">15.04</span></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">15:00</div>
-	  <div class="eleven columns bl-not-mobile"></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">16:00</div>
-	  <div class="eleven columns bl-not-mobile"></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">17:00</div>
-	  <div class="eight columns bl-not-mobile">&nbsp;</div>
-	  <div class="three columns bl-not-mobile center">Dinner Buffet<br/><span class="room">OG 15</span></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">18:00</div>
-	  <div class="eight columns bl-not-mobile">&nbsp;</div>
-	  <div class="three columns bl-not-mobile center">Dinner Buffet<br/><span class="room">OG 15</span></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">19:00</div>
-	  <div class="eight columns bl-not-mobile">&nbsp;</div>
-	  <div class="three columns bl-not-mobile center">Dinner Buffet<br/><span class="room">OG 15</span></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">20:00</div>
-	  <div class="eleven columns bl-not-mobile">Evening News - <span class="room">15.04</span></div>
-	</div>
-	<div class="row bl br bt bb">
-	  <div class="one column">21:00</div>
-	  <div class="eleven columns bl-not-mobile">Drinks and Fun at NIU - <span class="room">Ground Floor</span></div>
-	</div>
-</div>
-
-<br/>
-<br/>
-<h4>Saturday, 13. Oct 2018</h4>
-<p>Begin 8:00 / End 18:00</p>
+<div id="schedule"></div>
 
 
-<div class="schedule">
-	<div class="row bl br bt">
-	  <div class="one column">8:00</div>
-	  <div class="eleven columns bl-not-mobile">Doors Opening - <span class="room">OG 15</span></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">9:00</div>
-	  <div class="eleven columns bl-not-mobile">Open the Space - <span class="room">15.04</span></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">10:00</div>
-	  <div class="eleven columns bl-not-mobile"></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">11:00</div>
-	  <div class="eight columns bl-not-mobile">&nbsp;</div>
-	  <div class="three columns bl-not-mobile">Lunch Buffet<br/><span class="room">OG 15</span></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">12:00</div>
-	  <div class="eight columns bl-not-mobile">&nbsp;</div>
-	  <div class="three columns bl-not-mobile">Lunch Buffet<br/><span class="room">OG 15</span></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">13:00</div>
-	  <div class="eight columns bl-not-mobile">&nbsp;</div>
-	  <div class="three columns bl-not-mobile">Lunch Buffet<br/><span class="room">OG 15</span></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">14:00</div>
-	  <div class="eleven columns bl-not-mobile"></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">15:00</div>
-	  <div class="eleven columns bl-not-mobile">Closing the Space - <span class="room">15.04</span></div>
-	</div>
-	<div class="row bl br bt">
-	  <div class="one column">16:00</div>
-	  <div class="eleven columns bl-not-mobile"></div>
-	</div>
-	<div class="row bl br bt bb">
-	  <div class="one column">17:00</div>
-	  <div class="eleven columns bl-not-mobile">Farewell Dinner at NIU - <span class="room">Ground Floor</span></div>
-	</div>
-</div>
+<script>
+var xmlhttp;
+var htmlData = "";
 
+xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+	if (this.readyState == 4 && this.status == 200) {
+
+		schedule = JSON.parse(this.responseText);
+		for (dayIndex in schedule) {
+			htmlData += '<h4>' + schedule[dayIndex].name + '</h4>';
+			htmlData += '<p>' + schedule[dayIndex].time + '</p>';
+			
+			htmlData += '<div class="schedule">'
+			
+			for (dataIndex in schedule[dayIndex].data) {
+				if (dataIndex != schedule[dayIndex].data.length-1) {
+					htmlData += '<div class="row bl br bt">'
+				} else {
+					// last
+					htmlData += '<div class="row bl br bt bb">'
+				}
+				htmlData += '<div class="one column">' + schedule[dayIndex].data[dataIndex].time + '</div>'
+				
+				var extraIndex = schedule[dayIndex].data[dataIndex].extra
+				
+				var columnClass = 'eleven'
+				if (extraIndex != undefined) {
+					var columnClass = 'eight'
+				}
+				
+				htmlData += '<div class="' + columnClass + ' columns bl-not-mobile">'
+				for (sessionIndex in schedule[dayIndex].data[dataIndex].sessions) {
+					htmlData += '<div>'
+					htmlData += schedule[dayIndex].data[dataIndex].sessions[sessionIndex].name
+					htmlData += ' / <span class="room">'
+					htmlData += schedule[dayIndex].data[dataIndex].sessions[sessionIndex].room
+					htmlData += '</span>'
+					htmlData += '</div>'
+				}
+				htmlData += '</div>'
+
+				if (extraIndex != undefined) {
+					htmlData += '<div class="three columns bl-not-mobile center">'
+					for (extraIndex in schedule[dayIndex].data[dataIndex].extra) {
+						htmlData += schedule[dayIndex].data[dataIndex].extra[extraIndex].name
+						htmlData += ' / <span class="room">'
+						htmlData += schedule[dayIndex].data[dataIndex].extra[extraIndex].room
+						htmlData += '</span>'
+					}
+					htmlData += '</div>'
+				}
+				
+				htmlData += '</div>'
+			}
+			htmlData += '</div><br/><br/>'
+		}
+		document.getElementById("schedule").innerHTML = htmlData;
+	}
+};
+xmlhttp.open("POST", "/data/schedule.json", true);
+xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+xmlhttp.send();
+
+</script>
 
 <!--more-->

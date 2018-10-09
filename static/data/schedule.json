@@ -1,0 +1,188 @@
+[
+	{
+		"name": "Friday, 12. Oct 2018",
+		"time": "Begin 13:00 / End 22:00",
+		"data": [
+			{
+				"time": "13:00",
+				"sessions": [
+					{
+						"name": "Doors Opening",
+						"room": "OG 15"
+					}
+				]
+			},
+			{
+				"time": " 14:00",
+				"sessions": [
+					{
+						"name": "Open the Space",
+						"room": "15.04"
+					}
+				]
+			},
+			{
+				"time": " 15:00",
+				"sessions": [
+
+				]
+			},
+			{
+				"time": " 16:00",
+				"sessions": [
+
+				]
+			},
+			{
+				"time": " 17:00",
+				"sessions": [
+
+				],
+				"extra": [
+					{
+						"name": "Dinner Buffet",
+						"room": "OG 15"
+					}
+				]
+			},
+			{
+				"time": " 18:00",
+				"sessions": [
+
+				],
+				"extra": [
+					{
+						"name": "Dinner Buffet",
+						"room": "OG 15"
+					}
+				]
+			},
+			{
+				"time": " 19:00",
+				"sessions": [
+
+				],
+				"extra": [
+					{
+						"name": "Dinner Buffet",
+						"room": "OG 15"
+					}
+				]
+			},
+			{
+				"time": " 20:00",
+				"sessions": [
+					{
+						"name": "Evening News",
+						"room": "15.04"
+					}
+				]
+			},
+			{
+				"time": " 21:00",
+				"sessions": [
+					{
+						"name": "Drinks and Fun at NIU",
+						"room": "Ground Floor"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Saturday, 13. Oct 2018",
+		"time": "Begin 8:00 / End 18:00",
+		"data": [
+			{
+				"time": "8:00",
+				"sessions": [
+					{
+						"name": "Doors Opening",
+						"room": "OG 15"
+					}
+				]
+			},
+			{
+				"time": "9:00",
+				"sessions": [
+					{
+						"name": "Open the Space",
+						"room": "15.04"
+					}
+				]
+			},
+			{
+				"time": "10:00",
+				"sessions": [
+
+				]
+			},
+			{
+				"time": "11:00",
+				"sessions": [
+
+				],
+				"extra": [
+					{
+						"name": "Lunch Buffet",
+						"room": "OG 15"
+					}
+				]
+			},
+			{
+				"time": "12:00",
+				"sessions": [
+
+				],
+				"extra": [
+					{
+						"name": "Lunch Buffet",
+						"room": "OG 15"
+					}
+				]
+			},
+			{
+				"time": "13:00",
+				"sessions": [
+
+				],
+				"extra": [
+					{
+						"name": "Lunch Buffet",
+						"room": "OG 15"
+					}
+				]
+			},
+			{
+				"time": "14:00",
+				"sessions": [
+
+				]
+			},
+			{
+				"time": "15:00",
+				"sessions": [
+					{
+						"name": "Closing the Space",
+						"room": "15.04"
+					}
+				]
+			},
+			{
+				"time": "16:00",
+				"sessions": [
+
+				]
+			},
+			{
+				"time": "17:00",
+				"sessions": [
+					{
+						"name": "Farewell Dinner at NIU",
+						"room": "Ground Floor"
+					}
+				]
+			}
+		]
+	}
+]
