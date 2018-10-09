@@ -9,19 +9,8 @@ noreadmore = true
 +++
 
 
-<div class="row">
-Friday, 12. Oct 2018 - Begin 13:00 / End 22:00
-</div>
-<div class="row">
-Saturday, 13. Oct 2018 - Begin 8:00 / End 18:00
-</div>
-
-
-
-<!--more-->
-
-
-<h3>Friday, 12. Oct 2018</h3>
+<h4>Friday, 12. Oct 2018</h4>
+<p>Begin 13:00 / End 22:00</p>
 
 <div class="schedule">
 	<div class="row bl br bt">
@@ -67,7 +56,9 @@ Saturday, 13. Oct 2018 - Begin 8:00 / End 18:00
 
 <br/>
 <br/>
-<h3>Saturday, 13. Oct 2018</h3>
+<h4>Saturday, 13. Oct 2018</h4>
+<p>Begin 8:00 / End 18:00</p>
+
 
 <div class="schedule">
 	<div class="row bl br bt">
@@ -114,3 +105,6 @@ Saturday, 13. Oct 2018 - Begin 8:00 / End 18:00
 	  <div class="eleven columns bl-not-mobile">Farewell Dinner at NIU - <span class="room">Ground Floor</span></div>
 	</div>
 </div>
+
+
+<!--more-->
