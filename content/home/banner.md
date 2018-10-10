@@ -20,7 +20,7 @@ background_image = "/images/2018/Crowd-Darker.jpg"
 			
 			
       <h4><a href="https://twitter.com/SoCraTesAT"><i class="fa fa-twitter" aria-hidden="true" style="width: 1.2em;"></i> @SoCraTesAT</a></h4>
-      <h4><a href="https://facebook.com/events/1509206379138557"><i class="fa fa-facebook" aria-hidden="true" style="width: 1.2em;"></i> SoCraTes Day Linz</a></h4>
+      <h4><a href="https://www.facebook.com/SoCraTesAustria/"><i class="fa fa-facebook" aria-hidden="true" style="width: 1.2em;"></i> SoCraTes Day Linz</a></h4>
       <br/>
 
     </div>
