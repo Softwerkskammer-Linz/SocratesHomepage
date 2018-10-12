@@ -24,19 +24,72 @@
 			{
 				"time": " 15:00",
 				"sessions": [
-
+					{
+						"name": "Blockchain for Business - Paul + Sascha",
+						"room": "15.04"
+					},
+					{
+						"name": "Intro - Machine & Deep Learning + Q+A - Markus",
+						"room": "15.05"
+					},
+					{
+						"name": "Code Craftsmanship vs $$ - @Fosna_",
+						"room": "15.06"
+					},
+					{
+						"name": "Java 9 Jigsaw. Practical Experiences? - Markus Maier",
+						"room": "Foyer"
+					}
 				]
 			},
 			{
 				"time": " 16:00",
 				"sessions": [
-
+					{
+						"name": "Teamscale - more then static - Codeanalyse  - Reinhard Eisner",
+						"room": "15.04"
+					},
+					{
+						"name": "Don't break the API - Robert Schmelzer",
+						"room": "15.05"
+					},
+					{
+						"name": "Validation w. Applications - Christoph",
+						"room": "15.06"
+					},
+					{
+						"name": "Elasticsearch - What, How? - Tomas",
+						"room": "Foyer"
+					},
+					{
+						"name": "Remote Company / Teams - Markus K.",
+						"room": "10.02"
+					}
 				]
 			},
 			{
 				"time": " 17:00",
 				"sessions": [
-
+					{
+						"name": "JVM Main and Docker - HST",
+						"room": "15.04"
+					},
+					{
+						"name": "Highway to Hell. Don'ts at Software Organisations - Markus",
+						"room": "15.05"
+					},
+					{
+						"name": "Git Autosquash & Fixups - David",
+						"room": "15.06"
+					},
+					{
+						"name": "Bit Twiddling - Micheal W.",
+						"room": "10.02"
+					},
+					{
+						"name": "Microservices Design Session - Robert Schmelzer",
+						"room": "10.07"
+					}
 				],
 				"extra": [
 					{
@@ -48,7 +101,22 @@
 			{
 				"time": " 18:00",
 				"sessions": [
-
+					{
+						"name": "Rust IOI - Matt",
+						"room": "15.04"
+					},
+					{
+						"name": "Ansible - Marian Hähnlein",
+						"room": "15.05"
+					},
+					{
+						"name": "Surprising properties of using In-App Feature Toggle - @paulroho",
+						"room": "15.06"
+					},
+					{
+						"name": "The What and Why of CI & CD - Markus Z.",
+						"room": "10.07"
+					}
 				],
 				"extra": [
 					{
@@ -60,7 +128,30 @@
 			{
 				"time": " 19:00",
 				"sessions": [
-
+					{
+						"name": "Retrospectives that don't suck & Meeing / Review culture - Wolfgang / Christian",
+						"room": "15.04"
+					},
+					{
+						"name": "Z22 - The first computer in OÖ - Norbert",
+						"room": "15.05"
+					},
+					{
+						"name": "Spark Kafka ... -> Big Data integration - Robert",
+						"room": "15.06"
+					},
+					{
+						"name": "Terraform Infrastructur as Code in the Cloud - Frank",
+						"room": "10.02"
+					},
+					{
+						"name": "Golang self support group - mle",
+						"room": "10.07"
+					},
+					{
+						"name": "Selfemployed programmers unite! Matthias B.",
+						"room": "Coffee Machine"
+					}
 				],
 				"extra": [
 					{
@@ -84,6 +175,19 @@
 					{
 						"name": "Drinks and Fun at NIU",
 						"room": "Ground Floor"
+					},
+					{
+						"name": "What is code quality (Discussion) Latti",
+						"room": "niu"
+					}
+				]
+			},
+			{
+				"time": " 21:30",
+				"sessions": [
+					{
+						"name": "Werewolves - David",
+						"room": "niu"
 					}
 				]
 			}
