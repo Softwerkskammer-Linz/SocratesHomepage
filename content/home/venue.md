@@ -10,7 +10,7 @@ bannerimage = "/images/2016/DSC05686.jpg"
 noreadmore = true
 +++
 
-SoCraTes Days Linz 2018 will be at the <a href="https://www.linz.at/wissensturm/">Wissensturm Linz</a>. It is right across the street from Linz main railway station ("Linz Hauptbahnhof") and can be easily reached by bus, tram and train.
+SoCraTes Days Linz 2018 will be at the <a href="https://www.linz.at/wissensturm/">Wissensturm Linz</a>, Kärntnerstraße 26, 4020 Linz, 15th floor. It is right across the street from Linz main railway station ("Linz Hauptbahnhof") and can be easily reached by bus, tram and train.
 
 We will have the whole 15th and 10th floor of the building for the conference:
 

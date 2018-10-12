@@ -13,10 +13,10 @@ background_image = "/images/2018/Crowd-Darker.jpg"
       <img class="logo" src="/images/2018/SoCraTes_Linz.svg" alt="SoCraTes Linz Logo"/>
     </div>
     <div class="eight columns" style="text-align: center">
-      <h1>SoCraTes Days Linz</h1>
-      <h2>October 12-13, 2018</h2>
-			<h2 style="color:#D62533;">SOLD OUT!</h2>
-		  <p><a class="tickets-button" href="/tickets">Join Waitlist</a></p>
+      <h1>SoCraTes Austria 2019</h1>
+      <h2>Save the date: October 4-5, 2019</h2>
+			
+		  <p><a class="tickets-button" href="https://www.eventbrite.com/e/socratesat-2019-tickets-51298483144">Join on Eventbrite</a></p>
 			
 			
       <h4><a href="https://twitter.com/SoCraTesAT"><i class="fa fa-twitter" aria-hidden="true" style="width: 1.2em;"></i> @SoCraTesAT</a></h4>
