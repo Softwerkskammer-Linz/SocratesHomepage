@@ -218,13 +218,55 @@
 			{
 				"time": "10:00",
 				"sessions": [
-
+					{
+						"name": "Diversity & Inclusion - Ask me anything / Franzi",
+						"room": "15.04"
+					},
+					{
+						"name": "Java + Vavr - FP+TDD / Christopher",
+						"room": "15.05"
+					},
+					{
+						"name": "Functional Programming - Intro / Tomas",
+						"room": "15.06"
+					},
+					{
+						"name": "Spring Boot Alternatives / Richard",
+						"room": "Foyer"
+					},
+					{
+						"name": "Crafting website concepts / Christopher",
+						"room": "10.02"
+					},
+					{
+						"name": "IPTables vs Docker / Hubert",
+						"room": "10.07"
+					}
 				]
 			},
 			{
 				"time": "11:00",
 				"sessions": [
-
+					{
+						"name": "Why code is hard to understand or not / Philipp S.",
+						"room": "15.04"
+					},
+					{
+						"name": "Systemic consensus principal - Group decisions / Maria",
+						"room": "15.05"
+					},
+					{
+						"name": "Server side rendering in React / HLEV",
+						"room": "15.06"
+					},
+					{
+						"name": "Python Developer Stack / Mousa",
+						"room": "10.02"
+					},
+					{
+						"name": "Successful organisational change manangment at software projects / MarkuZ",
+						"room": "10.02"
+					}
 				],
 				"extra": [
 					{
@@ -236,7 +278,30 @@
 			{
 				"time": "12:00",
 				"sessions": [
-
+					{
+						"name": "Building a legacy. Creating the burdens of tomorrow today / @FrankPrechtel",
+						"room": "15.04"
+					},
+					{
+						"name": "Learning in the future - Discussion / Latti",
+						"room": "15.05"
+					},
+					{
+						"name": "Coding Practice Websites - Fun with algoritums / Bernhard",
+						"room": "15.06"
+					},
+					{
+						"name": "New Javascript features in production - Laptop needed / Paul",
+						"room": "10.02"
+					},
+					{
+						"name": "Angular Toolchain Intellij / Werner",
+						"room": "10.02"
+					},
+					{
+						"name": "Microservices Good vs. Bad -. Expert needed / @Fosna",
+						"room": "Foyer"
+					}
 				],
 				"extra": [
 					{
@@ -248,7 +313,30 @@
 			{
 				"time": "13:00",
 				"sessions": [
-
+					{
+						"name": "Calculating with machines / Michael W.",
+						"room": "15.04"
+					},
+					{
+						"name": "Text classification with elasticsearch / Karl-Michael",
+						"room": "15.05"
+					},
+					{
+						"name": "Mob programming - Experiences - Practices - Learning - Goals / Roland",
+						"room": "15.06"
+					},
+					{
+						"name": "Layouting CSS Grid / Jürgen",
+						"room": "10.02"
+					},
+					{
+						"name": "Advanced Testing / Mutation Testing, Fuzzing, Modelbased testing, delta debugging and the future / Markus Z",
+						"room": "10.07"
+					},
+					{
+						"name": "Improv Theatre Workshop / Maria",
+						"room": "Someware else"
+					}
 				],
 				"extra": [
 					{
@@ -260,7 +348,26 @@
 			{
 				"time": "14:00",
 				"sessions": [
-
+					{
+						"name": "Z22 - First computer in Upper Austria / Norbert",
+						"room": "10.02"
+					},
+					{
+						"name": "Architecture as code - Presentation and discussion / @brandstaetter",
+						"room": "15.05"
+					},
+					{
+						"name": "Transition from employee to self-employed / Christopher",
+						"room": "15.06"
+					},
+					{
+						"name": "Functional Mob Programming / Matthias & Yolgie",
+						"room": "10.02"
+					},
+					{
+						"name": "Analysing Cryptos with Pandas and Yupyter / Robert",
+						"room": "10.07"
+					}
 				]
 			},
 			{
@@ -275,7 +382,10 @@
 			{
 				"time": "16:00",
 				"sessions": [
-
+					{
+						"name": "Trials & Tribulations of consulting / Franzi",
+						"room": "Foyer"
+					}
 				]
 			},
 			{
@@ -285,6 +395,29 @@
 						"name": "Farewell Dinner at NIU",
 						"room": "Ground Floor"
 					}
+				]
+			},
+			{
+				"time": "19:00",
+				"sessions": [
+					{
+						"name": "CoP @ Datev / Christoph & Latti",
+						"room": "niu"
+					}
+				]
+			},
+			{
+				"time": "Anytime",
+				"sessions": [
+					{
+						"name": "Future of SoCraTes / David, Lisi, René",
+						"room": "Anywere"
+					},
+					{
+						"name": "Hacktober / Markus Z.",
+						"room": "Anywere"
+					}
+					
 				]
 			}
 		]
