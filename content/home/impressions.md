@@ -49,6 +49,23 @@ noreadmore = true
 	{{< figure src="/images/2018/event/DSCF6409.jpg" alt="SoCraTes 2018 - Friday">}}
 	{{< figure src="/images/2018/event/DSCF6413.jpg" alt="SoCraTes 2018 - Friday">}}
 	{{< figure src="/images/2018/event/DSCF6418.jpg" alt="SoCraTes 2018 - Friday">}}
+	{{< figure src="/images/2018/event/DSCF6425.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6430.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6431.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6434.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6439.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6442.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6446.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6456.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6459.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6465.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6471.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6474.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6475.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6493.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6499.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6506.jpg" alt="SoCraTes 2018 - Saturday">}}
+	{{< figure src="/images/2018/event/DSCF6510.jpg" alt="SoCraTes 2018 - Saturday">}}
 {{< /gallery >}}
 
 </div>
