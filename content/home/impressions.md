@@ -13,7 +13,6 @@ noreadmore = true
 <br/>
 <br/>
 <div class="row">
-<h3>Photos</h3>
 
 {{< load-photoswipe >}}
 {{< gallery>}}
