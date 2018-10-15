@@ -22,7 +22,6 @@ noreadmore = true
 	{{< figure src="/images/2018/event/DSCF6174.jpg" alt="SoCraTes 2018 - Friday">}}
 	{{< figure src="/images/2018/event/DSCF6178.JPG" alt="SoCraTes 2018 - Friday">}}
 	{{< figure src="/images/2018/event/DSCF6185.jpg" alt="SoCraTes 2018 - Friday">}}
-	{{< figure src="/images/2018/event/DSCF6195.jpg" alt="SoCraTes 2018 - Friday">}}
 	{{< figure src="/images/2018/event/DSCF6196.JPG" alt="SoCraTes 2018 - Friday">}}
 	{{< figure src="/images/2018/event/DSCF6201.jpg" alt="SoCraTes 2018 - Friday">}}
 	{{< figure src="/images/2018/event/DSCF6233.jpg" alt="SoCraTes 2018 - Friday">}}
@@ -67,7 +66,6 @@ noreadmore = true
 	{{< figure src="/images/2018/event/DSCF6506.jpg" alt="SoCraTes 2018 - Saturday">}}
 	{{< figure src="/images/2018/event/DSCF6510.jpg" alt="SoCraTes 2018 - Saturday">}}
 {{< /gallery >}}
-
 </div>
 
 <!--more-->
