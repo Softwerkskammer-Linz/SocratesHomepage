@@ -16,7 +16,7 @@ background_image = "/images/2018/Crowd-Darker.jpg"
       <h1>SoCraTes Austria 2019</h1>
       <h2>Save the date: October 4-5, 2019</h2>
 			
-		  <p><a class="tickets-button" href="https://www.eventbrite.com/e/socratesat-2019-tickets-51298483144">Join on Eventbrite</a></p>
+		  <p><a class="tickets-button" href="https://www.eventbrite.com/e/socratesat-2019-tickets-51298483144">Get your Ticket</a></p>
 			
 			
       <h4><a href="https://twitter.com/SoCraTesAT"><i class="fa fa-twitter" aria-hidden="true" style="width: 1.2em;"></i> @SoCraTesAT</a></h4>
